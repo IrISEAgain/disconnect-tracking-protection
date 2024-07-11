@@ -1,11 +1,20 @@
 # Tracker Descriptions
+
+The technical and policy review information below was recorded on the date observed and does not necessarily include all information used to determine proper classification. Classifications are subject to review and change. Concerns or requests for review can be emailed to support@disconnect.me.
+
 - [Adabra](#Adabra)
 - [Adbot](#Adbot)
+- [Adbrain](#Adbrain)
+- [AdCash](#AdCash)
 - [AdGainerSolutions](#AdGainerSolutions)
+- [Adjust](#Adjust)
 - [AdMaven](#AdMaven)
 - [Admicro](#Admicro)
 - [Adnium](#Adnium)
+- [Adobe](#Adobe)
 - [AdScore](#AdScore)
+- [Adstune](#Adstune)
+- [AdxSpace](#AdxSpace)
 - [AdYouLike](#AdYouLike)
 - [AivaLabs](#AivaLabs)
 - [a.js](#a.js)
@@ -14,12 +23,16 @@
 - [AuditedMedia](#AuditedMedia)
 - [Augur](#Augur)
 - [AvantLink](#AvantLink)
+- [Awin](#Awin)
 - [Azet](#Azet)
 - [BetssonPalantir](#BetssonPalantir)
 - [BigClick](#BigClick)
+- [Bisnode](#Bisnode)
 - [BitMedia](#BitMedia)
 - [BlueCava](#BlueCava)
+- [BlueKai](#BlueKai)
 - [BoostBox](#BoostBox)
+- [Bouncex](#Bouncex)
 - [Brandcrumb](#Brandcrumb)
 - [BreakTime](#BreakTime)
 - [BrightEdge](#BrightEdge)
@@ -27,37 +40,53 @@
 - [CallSource](#CallSource)
 - [CartsGuru](#CartsGuru)
 - [CashBeet](#CashBeet)
-- [Cbox](#Cbox)
+- [Choozle](#Choozle)
 - [ClearLink](#ClearLink)
 - [Clickayab](#Clickayab)
 - [ClickFrog](#ClickFrog)
 - [ClickGuard](#ClickGuard)
 - [Clixtell](#Clixtell)
+- [Cloudflare](#Cloudflare)
 - [CoinHive](#CoinHive)
 - [CoinPot](#CoinPot)
+- [ConversantMedia](#ConversantMedia)
 - [CryptoLoot](#CryptoLoot)
 - [DoubleVerify](#DoubleVerify)
+- [Drawbridge](#Drawbridge)
 - [ECSAnalytics](#ECSAnalytics)
 - [EroAdvertising](#EroAdvertising)
+- [Experian](#Experian)
 - [EyeNewton](#EyeNewton)
 - [eyeReturn-Marketing](#eyeReturn-Marketing)
+- [Facebook](#Facebook)
 - [Fanplayr](#Fanplayr)
+- [Fiksu](#Fiksu)
+- [Flocktory](#Flocktory)
 - [Foresee](#Foresee)
 - [Friends2Follow](#Friends2Follow)
 - [FuelX](#FuelX)
 - [Gleam](#Gleam)
+- [Google](#Google)
 - [GrapheneMedia](#GrapheneMedia)
 - [Gridcash](#Gridcash)
 - [HilltopAds](#HilltopAds)
 - [HotelChamp](#HotelChamp)
 - [HotMart](#HotMart)
+- [ie8eamus](#ie8eamus)
 - [iMedia](#iMedia)
+- [Infolinks](#Infolinks)
+- [iShumei](#iShumei)
 - [IslayTech](#IslayTech)
 - [ismatlab.com](#ismatlab.com)
 - [Itch](#Itch)
 - [JSE](#JSE)
+- [justuno](#justuno)
+- [KISSmetrics](#KISSmetrics)
+- [Kitewheel](#Kitewheel)
 - [Konduto](#Konduto)
 - [LeadsHub](#LeadsHub)
+- [LiveRamp](#LiveRamp)
+- [Lotame](#Lotame)
 - [lptracker](#lptracker)
 - [MaxMind](#MaxMind)
 - [MediaMath](#MediaMath)
@@ -72,38 +101,53 @@
 - [OneAd](#OneAd)
 - [OnlineMetrix](#OnlineMetrix)
 - [OpenX](#OpenX)
-- [Opolen](#Opolen)
+- [Origo](#Origo)
+- [PartyPoker](#PartyPoker)
 - [Paypal](#Paypal)
 - [PerimeterX](#PerimeterX)
 - [PinPoll](#PinPoll)
-- [Poool](#Poool)
+- [Polen](#Polen)
 - [PPCProtect](#PPCProtect)
 - [PrismApp](#PrismApp)
 - [PrometheusIntelligenceTechnology](#PrometheusIntelligenceTechnology)
+- [Protected-Media](#Protected-Media)
 - [Provers](#Provers)
 - [Psonstrentie](#Psonstrentie)
+- [RazorPay](#RazorPay)
 - [Rollick](#Rollick)
+- [RoqAd](#RoqAd)
+- [Salesforce](#Salesforce)
 - [SAP](#SAP)
 - [Semantiqo](#Semantiqo)
 - [SendPulse](#SendPulse)
+- [Shixiseng](#Shixiseng)
 - [SiftScience](#SiftScience)
+- [SmarterClick](#SmarterClick)
+- [SmartyAds](#SmartyAds)
 - [Smi](#Smi)
 - [Socital](#Socital)
 - [SpareChange](#SpareChange)
-- [StackTrack](#StackTrack)
+- [SteelHouse](#SteelHouse)
 - [Storeland](#Storeland)
+- [Stripchat](#Stripchat)
+- [Tapad](#Tapad)
 - [TechSolutions](#TechSolutions)
+- [The-Trade-Desk](#The-Trade-Desk)
+- [Trendemon](#Trendemon)
+- [Unknown2mdnsys](#Unknown2mdnsys)
 - [Upland](#Upland)
-- [Vendemore](#Vendemore)
 - [VerticalHealth](#VerticalHealth)
-- [ViralLoops](#ViralLoops)
+- [Vtex](#Vtex)
+- [Warumbistdusoarm](#Warumbistdusoarm)
 - [Webmecanik](#Webmecanik)
 - [Webmine](#Webmine)
 - [WideOrbit](#WideOrbit)
+- [Yieldmo](#Yieldmo)
 - [ZafulAffiliate](#ZafulAffiliate)
 - [Zefir](#Zefir)
+- [Zip](#Zip)
 ## Adabra
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://track.adabra.com/sbn_fingerprint.v1.16.47.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -126,7 +170,7 @@ Request URL: https://track.adabra.com/log?tit=www.gioiapura.it%2FOfferte%20su%20
 [Go back to top](#tracker-descriptions)
 
 ## Adbot
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://learning.adbot.tw/js/fingerprint2.min.js?_=1549428431957`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -149,8 +193,48 @@ Script: `https://learning.adbot.tw/js/fingerprint2.min.js?_=1549428431957`
 ```
 [Go back to top](#tracker-descriptions)
 
+## Adbrain
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+
+Adbrain's Privacy Policy States: 
+
+`https://www.thetradedesk.com/general/privacy`
+
+>Our AdBrain product, which is part of our Platform, uses data to produce a mapping of devices that might be related to each other, meaning that they might be used by the same person or by people within the same household. This helps advertisers better target and measure their campaigns, as well as limiting the number of times the same person or household sees an ad. 
+
+>Cross device graphing: We may use data and algorithms to associate devices that might be related to each other, such as devices used by the same person or in the same household. 
+
+>Some of the ways the Platform collects data include: using cookies and pixels 
+
+>The Platform processes data both on our behalf and on behalf of clients and partners for advertising purposes such as: associating devices that might be related to each other
+
+Adbrain's website states: 
+
+`www.adbrain.com`
+
+>Retargeting: Turn on cross-device targeting to reach your audience everywhere — from desktop computers and mobile devices to in-app, mobile web, and across browsers.
+
+>Adbrain empowers you to solve for this fragmentation by unifying varied quality data sources so that you can focus on targeting the person, not just their device. 
+
+>Adbrain uses machine learning algorithms to contextualize unstructured data points across devices, people, and households – achieving both broad coverage and a clear view of your target audience’s behavior. With a multidimensional approach to identity, it’s easier than ever to compare patterns across people, places, and things. 
+
+
+[Go back to top](#tracker-descriptions)
+
+## AdCash
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://ufpcdn.com/cdn-cgi/bm/cv/2172558837/api.js`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+```
+{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "40px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Wfu\",179,115]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"b@)b@\",118,160]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "100px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"fW(i\",147,287]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"qGb))\",165,130]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
+```
+[Go back to top](#tracker-descriptions)
+
 ## AdGainerSolutions
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://adgainersolutions.com/adgainer/tracking/fp.min.js?v=201708290`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -193,8 +277,37 @@ Script: `https://adgainersolutions.com/adgainer/tracking/fp.min.js?v=201708290`
 ```
 [Go back to top](#tracker-descriptions)
 
+## Adjust
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Adjust's privacy policy States:
+
+`https://www.adjust.com/terms/privacy-policy/`
+
+>Processing of data through the Adjust Technology: We provide mobile analytics and attribution services to mobile app providers (our “Customers”). In connection with these services, we may process certain data from the users of these mobile apps (collectively the “End User” or “You”), as further described hereafter. 
+Our SDK and APIs (collectively the “Adjust technology”) may process some of the following data from You as the End User: 
+>- hashed IP address 
+>- Mobile identifiers such as the ID for Advertising for iOS (IDFA), Google Advertising ID or similar mobile identifiers 
+>-  Installation and first opening of an app on Your mobile device 
+>-  Your interactions within an app (e.g. in-app purchases, registration) 
+>-  Information regarding which advertisements You have seen or clicked on 
+>-  For the Unbotify/Fraud product additionally: sensory data including touch events, counting text changes, accelerometer, gyroscope, battery, light sensor, device hardware specifications and operating system version
+
+Adjust's website states: 
+
+`https://www.adjust.com/product-updates/web-sdk-and-cross-device-tracking-measurement-beyond-the-app/`
+
+>We’re happy to announce enhanced support for cross-device tracking features, strengthening our offering of measurement beyond the app. In combination with Adjust’s mobile SDK, cross-device tracking has been made possible and enables our clients to fill in the gaps with their overall marketing efforts.  
+  
+>Adjust’s Web SDK allows clients to track installs, sessions and events that occur in web apps, or on a web page, enabling marketers to track a campaign from the first ad view to a landing page, and then to events - whether they occur on desktop or the mobile web.  
+  
+>Moving towards to cross-device tracking - Now, in combination with Adjust’s mobile SDK, our clients have the ability to implement cross-device tracking via their own BI system. Cross-device tracking works by matching activity across different devices to the same user who performs them by utilizing shared identifiers, such as sign-in data, that are in use on each user’s device.
+
+
+[Go back to top](#tracker-descriptions)
+
 ## AdMaven
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://d2fbkzyicji7c4.cloudfront.net/?zkbfd=691740`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -216,7 +329,7 @@ Script: `https://d2fbkzyicji7c4.cloudfront.net/?zkbfd=691740`
 [Go back to top](#tracker-descriptions)
 
 ## Admicro
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 1. admicro fingerprints by using several fingerprinting techniques like canvas/font and webrtc
 ```
@@ -238,7 +351,7 @@ c.prototype.getCanvas = function () {
 [Go back to top](#tracker-descriptions)
 
 ## Adnium
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://a.montwam.top/static?r=1847068&id=665&pid=18&sid=36&tid=1&w=300&h=250`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -294,8 +407,30 @@ Script: `https://a.montwam.top/static?r=1847068&id=665&pid=18&sid=36&tid=1&w=300
 
 [Go back to top](#tracker-descriptions)
 
+## Adobe
+This service has been classified as `Email`, `Content`, `Advertising`, `EmailStrict` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Adobe's privacy policy States:
+
+`https://www.adobe.com/privacy/cookies.html`
+
+>Technologies similar to cookies - There are other technologies that can be used for similar purposes, such as HTML5 Local Storage and local shared objects (LSOs). LSOs are used by the authors of files that are read by Adobe® Flash® Player and the websites hosting those files (learn more about Flash Player and LSOs). We may use HTML5 Local Storage, LSOs, and similar technologies for authenticating you, keeping track of information you have provided to us, and remembering your preferences (see bullet points above). When you are using an Adobe application offline, we may store information related to how you used that website on your device and then transfer it to our servers the next time you connect online to our service. 
+  
+>Web beacons and embedded scripts - Web beacons and embedded scripts are other technologies that we use in our websites, as well as in some of our emails and ads. Web beacons (or “tags”) are bits of programming code included in web pages, emails, and ads that notify Adobe (or the companies that help us run our business) when those web pages, emails, or ads have been viewed or clicked on. Embedded scripts are bits of programming code included within some of our web pages that measure how you use those web pages, such as which links you click. We use this information to improve our websites, tailor our websites to your likely interests, conduct market research, and for anti-fraud monitoring purposes. 
+
+Adobe's website states: 
+
+`https://docs.adobe.com/content/help/en/device-co-op/using/about/overview.html`
+
+>The Experience Cloud Device Co-op empowers participating brands to recognize their consumers so they can deliver more personalized experiences across devices and apps at massive scale…The Device Co-op allows participants to provide their consumers with a better, more consistent content experience as they migrate across devices. It does this by establishing links between a group of devices used by unknown consumers. This technology helps marketers understand and respond to consumer behaviors across devices.  
+
+>Retargeting Across Devices: Reach your consumers via the power of retargeting unlocked across the mobiles, tablets, browsers, and other devices they use everyday. Advertising is dramatically more effective if you can stay front of mind, and cross device retargeting allows your brand to do exactly that.
+
+
+[Go back to top](#tracker-descriptions)
+
 ## AdScore
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 ```
         k = function() {
@@ -358,8 +493,30 @@ This service has been classified as `Fingerprinting` for the following reasons:
 ```
 [Go back to top](#tracker-descriptions)
 
+## Adstune
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://adstune.com/cdn-cgi/bm/cv/2172558837/api.js`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+```
+{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "100px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"&M\",90,155]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\":F\\\\\\\\$\",53,78]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"-<E\",179,179]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
+```
+[Go back to top](#tracker-descriptions)
+
+## AdxSpace
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://cdn.00px.net/static/space.min.js`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+```
+{"is_audio": true, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "audio_api_calls": [{"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}], "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "13pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Sphinx of black quartz, judge my vow 🐼😄\",2,20]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.23456789)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Sphinx of black quartz, judge my vow 🐼😄\",4,22]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,125,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(125,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
+```
+[Go back to top](#tracker-descriptions)
+
 ## AdYouLike
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.pulpix.com/static/pulpix.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -410,7 +567,7 @@ Script: `https://cdn.pulpix.com/static/pulpix.js`
 [Go back to top](#tracker-descriptions)
 
 ## AivaLabs
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://aivalabs.com/cta/?identity=QtBHuIKbz7dQys5LY2dm0u4SiTppOAeMefE/JyIcTGlKg1zbgwTL.&shop=g-floor.myshopify.com`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -508,122 +665,32 @@ Raw log:
 [Go back to top](#tracker-descriptions)
 
 ## Albacross
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://serve.albacross.com/track.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-        var e = function(e) {
-            var t = {
-                swfContainerId: "fingerprintjs2",
-                swfPath: "flash/compiled/FontList.swf",
-                detectScreenOrientation: !0,
-                sortPluginsFor: [/palemoon/i]
-            };
-            this.options = this.extend(e, t), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-        };
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Albacross’ privacy policy states:
 
+`https://albacross.com/privacy-policy/`
 
-```
-2. Sends computed fingerprint back to server:
-```
-NosivaCore.getCollectorUrl = function(env) {
-            switch (env) {
-                case "production":
-                    return "https://collect.albacross.com";
-                case "staging":
-                    return "http://collect.albakaos.com";
-                case "local":
-                    return "http://localhost:8080"
-            }
-        }
-
-NosivaCore.markers = {}, NosivaCore.params = ["first_name", "last_name", "email", "company_name", "company_number", "campaign_id", "ad_id", "adform_tag_id", "adform_advertiser_id", "adform_campaign_id", "adform_tracking_setup_id", "adform_creative_id", "adform_cookie_id", "adform_unique_impression_id", "adform_media_id", "adform_line_item_id", "adform_media_network_id", "adform_banner_domain", "adform_rtb_inventory_source_id", "adform_rtb_domain", "adform_rtb_deal_or_package_id", "adform_request_id", "adform_advertising_id", "adform_external_publisher_id"], NosivaCore.shortFormat = !1, NosivaCore.domReady = function(fn) {
-            "loading" != document.readyState ? fn() : document.addEventListener ? document.addEventListener("DOMContentLoaded", fn) : document.attachEvent("onreadystatechange", function() {
-                "loading" != document.readyState && fn()
-            })
-        }, NosivaCore.sendEvents = function(events, callback, retries) {
-            if (document.body) {
-                "undefined" == typeof retries && (retries = 0), "undefined" != typeof callback && null !== callback && callback();
-                var url = "";
-                url = NosivaCore.shortFormat ? NosivaCore.getCollectorUrl(Nosiva.environment) + "/e.gif?" + NosivaCore.stringifyEvents(events, !0) : NosivaCore.getCollectorUrl(Nosiva.environment) + "/d.gif?d=" + NosivaCore.stringifyEvents(events, !1);
-                var img = new Image;
-                img.height = 0, img.width = 0, img.style.height = "0", img.style.width = "0", img.style.border = "0", img.style.margin = "0", img.style.padding = "0", img.style.position = "fixed", img.style.bottom = "0", img.style.left = "0", img.src = url, document.body.appendChild(img), img.onload = function() {
-                    null !== img.parentNode && document.body.removeChild(img)
-                }, 2 > retries && (img.onerror = function() {
-                    setTimeout(function() {
-                        document.body.removeChild(img), NosivaCore.sendEvents(events, null, retries + 1)
-                    }, 1e3)
-                })
-            }
-        }
-
-
-
-```
+>The data processed is the IP-address from which you visited our customer´s website, and technical information that enables us to tell different visitors apart that are originating from the same IP-address (cookies). In some cases, the IP-address and the company it is matched with may constitute personal data – for instance when it comes to sole traders – as it would allow for the identification of the visitor.
 
 [Go back to top](#tracker-descriptions)
 
 ## AppCast
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://click.appcast.io/pixels/generic1-6607.js?ent=196`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-    Fingerprint.prototype = {
-        get: function() {
-            var keys = [];
-            keys.push(navigator.userAgent);
-            keys.push(navigator.language);
-            keys.push(screen.colorDepth);
-            keys.push((new Date).getTimezoneOffset());
-            keys.push(!!window.sessionStorage);
-            keys.push(this.hasLocalStorage());
-            keys.push(!!window.indexedDB);
-            keys.push(typeof document.body.addBehavior);
-            keys.push(typeof window.openDatabase);
-            keys.push(navigator.cpuClass);
-            keys.push(navigator.platform);
-            keys.push(navigator.doNotTrack);
-
-```
-2. Sends computed fingerprint back to server
-```
-try {
-            var img = document.createElement("img"),
-                action = "generic-te8/a31";;;;;;;;;;;
-            try {
-                ''
-            } catch (ex) {}
-            saveReqNumToSessionStorage(reqNum);
-            var url = "https://click.appcast.io/" +
-                action + ".png?r=" + encodeURIComponent(document.referrer) + (reqNum ? "&jid=" + reqNum : "") + "&tn=" + now + "&rn=" + random + "&fp=" + fp + window.acEmployerId;
-            if (jobSeekerId) url += "&jsid=" + jobSeekerId;
-            if (pSrc) url += "&psrc=" + pSrc;
-            if (misc) url += "&misc=" + misc;
-            if (aid) url += "&aid=" + aid;
-            if (fa) url += "&fa=" + fa;
-            if (exchangeId) url += "&exch=" + exchangeId;
-            if (ccid) url += "&ccid=" + ccid;
-            if (pid) url += "&pid=" + pid;
-            if (cid) url += "&cid=" + cid;
-            if (jt) url += "&jt=" + jt;
-            img.src = url;
-            img.style.display = "none";
-            document.body.appendChild(img);
-            if (/te8\/a31/i.test(action)) window.acAction =
-                0;
-            else if (/ue8\/a7/i.test(action)) window.acAction = 1;
-            else if (/9k\/a17/i.test(action)) window.acAction = 2
-        } catch (e$3) {}
-
-
-```
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Appcast’s privacy policy states:  
+`https://www.appcast.io/privacy-policy/`  
+ 
+>To provide the Service, we collect certain information from job applicants using automated means, such as cookies and web beacons, when they click on an Appcast-sponsored job ad at third party websites… 
+> 
+>The information we collect in this manner includes IP address, browser type, device type, operating system, referring URLs, dates and times of site visits, and predictive demographic information… 
+> 
+>We may also enable third parties to use cookies, web beacons, and ID syncing to collect information when you click on an Appcast-powered job ad at third party websites." 
 
 [Go back to top](#tracker-descriptions)
 
 ## AuditedMedia
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. https://auditedmedia.com/ 
 ### Technical Review
@@ -788,7 +855,7 @@ This service has been classified as `Fingerprinting` for the following reasons:
 [Go back to top](#tracker-descriptions)
 
 ## Augur
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. Augur claims that they track users via devices, not through cookies. - `https://www.mediapost.com/publications/article/166916/bluecava-touts-device-fingerprinting.html`
 
@@ -800,96 +867,43 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 
 > To deliver the Augur Services, our software collects, organizes, and uses Non-PII. This information includes, the date and time of visits to a Client Property, browser information (e.g., browser type, font signature), operating system information (e.g. screen resolution), IP addresses, non-precise geographic information ( e.g. time zone, city, state, country), battery level, and user agent
 
+
+[Go back to top](#tracker-descriptions)
+
 ## AvantLink
-This service has been classified as `Analytics`, `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://cdn.avmws.com/1013737/`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-var defaultOptions = {
-        preprocessor: null,
-        audio: {
-            timeout: 1e3,
-            excludeIOS11: true
-        },
-        fonts: {
-            swfContainerId: "fingerprintjs2",
-            swfPath: "flash/compiled/FontList.swf",
-            userDefinedFonts: [],
-            extendedJsFonts: false
-        },
-        screen: {
-            detectScreenOrientation: true
-        },
-        plugins: {
-            sortPluginsFor: [/palemoon/i],
-            excludeIE: false
-        },
-        extraComponents: [],
-        excludes: {
-            enumerateDevices: true,
-            pixelRatio: true,
-            doNotTrack: true,
-            fontsFlash: true
-        },
-        NOT_AVAILABLE: "not available",
-        ERROR: "error",
-        EXCLUDED: "excluded"
-    };
+This service has been classified as `Analytics`, `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Avantlink's Privacy Policy States:
 
-```
-2. Sends computed fingerprint back to server
-```
-function logPageView(customData) {
-            var request;
-            request = configTrackerUrl + "?url=" + escapeWrapper(documentAlias.location.href) + "&ref=" + escapeWrapper(getReferrer()) + "&name=" + escapeWrapper(documentAlias.title) + "&avmws=" + escapeWrapper(getCookie("avmws")) + "&rand=" + Math.random() + "&lib=1";
-            if (isDefined(customData)) {
-                request += "&data=" + escapeWrapper(stringify(customData))
-            }
-            if (window.requestIdleCallback) {
-                requestIdleCallback(function() {
-                    try {
-                        Fingerprint2.get({
-                            excludeFlashFonts: true,
-                            excludeJsFonts: true
-                        }, function(components) {
-                            var values = components.map(function(component) {
-                                return component.value
-                            });
-                            var murmur = Fingerprint2.x64hash128(values.join(""), 31);
-                            request += "&fingerprint=" + escapeWrapper(murmur);
-                            getScript(request)
-                        })
-                    } catch (e) {
-                        getScript(request)
-                    }
-                })
-            } else {
-                setTimeout(function() {
-                    try {
-                        Fingerprint2.get({
-                            excludeFlashFonts: true,
-                            excludeJsFonts: true
-                        }, function(components) {
-                            var values = components.map(function(component) {
-                                return component.value
-                            });
-                            var murmur = Fingerprint2.x64hash128(values.join(""), 31);
-                            request += "&fingerprint=" + escapeWrapper(murmur);
-                            getScript(request)
-                        })
-                    } catch (e) {
-                        getScript(request)
-                    }
-                }, 500)
-            }
-        }
+`https://www.avantlink.com/privacy-policy/`
 
-```
+>In connection with use of our Network, and the availability of links through our Network, we may automatically collect information such as a device’s IP address or mobile device ID, browsing activity and similar information which indicates how a user has interacted with our Network, Affiliates or Merchants.
+
+Avantlink's website states:
+
+`http://blog.avantlink.com/arches/`
+
+>Advanced Tracking:
+>- Cross-Device 
+>- More Attribution Roles for AvantMetrics 
+>-  Additional Insight into the Customer’s Path to Purchase
+
+[Go back to top](#tracker-descriptions)
+
+## Awin
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Awin's privacy policy States:
+
+`https://www.awin.com/us/privacy#how-do-we-collect-data-from-end-users`
+
+>How do we collect data from end users? 
+>- Fingerprinting: This is a method by which Awin can uniquely identify a device by considering certain attributes of the browser or the device (incl. screen size/resolution and user configurations).
+
 [Go back to top](#tracker-descriptions)
 
 ## Azet
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://rsz.sk/delivery/sd3.php`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -903,7 +917,7 @@ function getFp() {
 [Go back to top](#tracker-descriptions)
 
 ## BetssonPalantir
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://amonsul.betssonpalantir.com/amonsul-receiver.js?v=1540819800000`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1010,7 +1024,7 @@ Script: `https://amonsul.betssonpalantir.com/amonsul-receiver.js?v=1540819800000
 [Go back to top](#tracker-descriptions)
 
 ## BigClick
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://bgclck.me/lhzbsrfkjf/js/545?r=&3845`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1041,8 +1055,25 @@ Script: `https://bgclck.me/lhzbsrfkjf/js/545?r=&3845`
 
 [Go back to top](#tracker-descriptions)
 
+## Bisnode
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Bisnode’s privacy policy states: 
+ 
+`https://www.bisnode.com/privacy/personal_data/data-we-collect/`
+ 
+What data do we collect about you? 
+ 
+>•Consumer interest and buying behavior. Statistical variables 
+
+>•Electronic localization data. GPS location, mobile phone 
+
+>•Electronic identification data. IP-address and cookies from your visits to our sites
+
+[Go back to top](#tracker-descriptions)
+
 ## BitMedia
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://ad.bitmedia.io/js/adbybm.js/5b58f88917356f00108024d8`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1081,7 +1112,7 @@ Script: `https://ad.bitmedia.io/js/adbybm.js/5b58f88917356f00108024d8`
 [Go back to top](#tracker-descriptions)
 
 ## BlueCava
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. BlueCava says that the newest version of its device-fingerprinting technology doesn't require installing cookies on users' computers. Instead, the company recognizes the unique characteristics of users' computers and then compiles information about those people's Web-surfing activity. - `https://www.mediapost.com/publications/article/166916/bluecava-touts-device-fingerprinting.html`
 
@@ -1173,8 +1204,37 @@ This service has been classified as `Analytics` and `Fingerprinting` for the fol
 ```
 [Go back to top](#tracker-descriptions)
 
+## BlueKai
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Oracle's privacy policy states:
+
+`https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html`
+
+>Oracle can process information about you: 
+>- For online interest-based advertising delivered through Oracle Data Cloud partners that display online advertising to you on behalf of Oracle Data Cloud customers…
+>- via a connected device (due to an association between your IP address and device identifier)…
+>- For linking Profiles and Interest Segments to enable Oracle Marketing & Data Cloud customers and partners to connect your Interest Segments across the various browsers and/or devices you may use. 
+
+>Cookies and similar technologies (e.g., pixels tags and device identifiers) are used by Oracle and our advertising technology partners to recognize you and/or your device(s) on, off and across different services and devices
+
+>Online information about you for linkage purposes (cross device/cross-context technology) is retained for up to 12 months.
+
+Oracle’s website states:
+
+`https://www.oracle.com/data-cloud/products/data-management-platform/cross-device.html`
+
+>Visualize and Plan Campaigns Across Devices: The Oracle Data Management Platform’s Audience Builder puts the power of the Oracle ID Graph in the hands of marketers. The Audience Builder allows marketers to visualize linkages and build audiences across devices. With enhanced audience segmentation and delivery, Oracle DMP users now have even more options to define exactly who they want to analyze and target by selecting the device ID from the environment from which the data was collected. 
+
+>- Analyze data across devices: define exactly who to target by the device ID source 
+>- Match Devices to Consumers 
+>- Map Consumer Purchase Path to Device: And deliver a consistent message across multiple devices
+
+
+[Go back to top](#tracker-descriptions)
+
 ## BoostBox
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 ```
       keys = this.userAgentKey(keys);
@@ -1227,8 +1287,76 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 ```
 [Go back to top](#tracker-descriptions)
 
+## Bouncex
+This service has been classified as `Advertising`, `EmailStrict` and `FingerprintingInvasive` for the following reasons:
+### Policy Review
+Bouncex's privacy policy States:
+
+`https://www.bouncex.com/privacy/`
+
+>As directed by our Clients, we process information such as hashed email addresses, cookie IDs, mobile advertising o/s IDs and other pseudonymous identifiers. We use this information to help us understand whether two devices are likely to be used by the same User or household. For example, where a User opens an email and we are able to place a cookie on that User’s browser, we may be to determine that this was the same User that had recently visited and logged into our Client’s website. Once we’ve established that linkage, we may use the information across Clients to enable Clients to onboard demographic data and other data onto profiles linked to those pseudonymous identifiers. This technology enables us to identify browsers and devices over time and across different websites via the Identify Platform. We also may enable Clients to leverage those pseudonymous identifiers to purchase advertising on digital media platforms. We are careful to segregate this data to ensure that neither Bounce Exchange nor our Clients are permitted to use information collected across non-affiliated Client sites and apps to personally identify and/or re-identify individual Users.  
+  
+>Our Platforms and our Services may utilize tracking technologies such as pixel tags, HTML5 cookies, HTTP cookies, web beacons, statistical identifiers, and mobile o/s advertising identifiers such as Apple’s IDFA, the Android Advertising ID and other pseudonymous information. Statistical identifiers are created when our systems read pseudonymous information about your computer or device, including the user agent, IP address, and the browser and operating system of your computer and device. Statistical identifiers enable our systems to determine within a reasonable level of certainty that they are encountering the same computer or device, including in environments where third-party cookies are not supported.
+
+BounceX's website states: 
+
+`https://www.bouncex.com/` (1)  
+
+>Market to people, not cookies. Today’s consumer expects more than yesterday’s tech. Use BounceX to accurately recognize and market to the actual person behind every visit in real-time. (1)  
+
+>We Know Your Users - Our proprietary tech identifies 40% of your anonymous traffic (on average) across all of their devices and sessions. (1)  
+
+'https://www.bouncex.com/thinktank/publisherid/' (2)
+
+>To truly “identify” a visitor, you need a first-party link to a device that can survive across browsers and sessions. That link will allow you to remember each visit the device makes to your site, thereby building an accurate view of the visitor’s affinities. To do this, bounceX’s identification product capitalizes on the massive network of websites that we serve. (2)
+
+### Technical Review
+Script: `https://assets.bounceexchange.com/assets/smart-tag/versioned/ijs_all_modules_cjs_min_ab1b3652f02ee26ed4e57a5cb243129f.js`
+1. Script accesses several Javascript API calls known to invasively fingerprint users. Some examples (APIs captured using [OpenWPM](https://github.com/mozilla/OpenWPM)):
+```json
+{
+  "top_level_url": "https://www.sears.com/",
+  "script_url": "https://assets.bounceexchange.com/assets/smart-tag/versioned/ijs_all_modules_cjs_min_ab1b3652f02ee26ed4e57a5cb243129f.js",
+  "script_line": "1",
+  "symbol": "window.navigator.doNotTrack",
+  "arguments": null,
+  "value": "unspecified"
+}
+```
+```json
+{
+  "top_level_url": "https://www.sears.com/",
+  "script_url": "https://assets.bounceexchange.com/assets/smart-tag/versioned/ijs_all_modules_cjs_min_ab1b3652f02ee26ed4e57a5cb243129f.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "https://www.sears.com/",
+  "script_url": "https://assets.bounceexchange.com/assets/smart-tag/versioned/ijs_all_modules_cjs_min_ab1b3652f02ee26ed4e57a5cb243129f.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "https://www.sears.com/",
+  "script_url": "https://assets.bounceexchange.com/assets/smart-tag/versioned/ijs_all_modules_cjs_min_ab1b3652f02ee26ed4e57a5cb243129f.js",
+  "script_line": "1",
+  "symbol": "RTCPeerConnection.setLocalDescription",
+  "arguments": "[\"{\\\"type\\\":\\\"offer\\\",\\\"sdp\\\":\\\"v=0\\\\r\\\\no=mozilla...THIS_IS_SDPARTA-78.0.1 XXXXX 0 IN IP4 0.0.0.0\\\\r\\\\ns=-\\\\r\\\\nt=0 0\\\\r\\\\na=fingerprint:sha-256 XXXXX\\\\r\\\\na=group:BUNDLE 0\\\\r\\\\na=ice-options:trickle\\\\r\\\\na=msid-semantic:WMS *\\\\r\\\\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\\\\r\\\\nc=IN IP4 0.0.0.0\\\\r\\\\na=sendrecv\\\\r\\\\na=ice-pwd:XXXXX\\\\r\\\\na=ice-ufrag:XXXXX\\\\r\\\\na=mid:0\\\\r\\\\na=setup:actpass\\\\r\\\\na=sctp-port:5000\\\\r\\\\na=max-message-size:1073741823\\\\r\\\\n\\\"}\"]",
+  "value": ""
+}
+```
+[Go back to top](#tracker-descriptions)
+
 ## Brandcrumb
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://static.brandcrumb.com/bc.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1276,7 +1404,7 @@ e.prototype.getFingerprint = function() {
 [Go back to top](#tracker-descriptions)
 
 ## BreakTime
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://a.breaktime.com.tw/js/au.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1320,7 +1448,7 @@ Script: `https://a.breaktime.com.tw/js/au.js`
 [Go back to top](#tracker-descriptions)
 
 ## BrightEdge
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.b0e8.com/conv_v3.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1359,7 +1487,7 @@ var audioTimeoutId$jscomp$0 = setTimeout(function() {
 [Go back to top](#tracker-descriptions)
 
 ## C3 Metrics
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. C3 Metrics claims that can universally track users with their fingerprinting technology - `https://c3metrics.com/privacy/`
 
@@ -1409,7 +1537,7 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 [Go back to top](#tracker-descriptions)
 
 ## CallSource
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://ai.leadtrackingdata.com/ai.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1518,7 +1646,7 @@ we = [{
 [Go back to top](#tracker-descriptions)
 
 ## CartsGuru
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://tracker-client.carts.guru/dist/shopify-client.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1628,63 +1756,32 @@ Raw log:
 ```
 [Go back to top](#tracker-descriptions)
 
-## Cbox
-This service has been classified as `Content` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `http://static.cbox.ws/jsc/jsc_1540817417.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-    var c = navigator;
-            return [c.userAgent, c.language || c.userLanguage || c.browserLanguage || c.systemLanguage, c.languages && c.languages.join(","), screen.colorDepth, screen.width, screen.height, screen.availHeight, screen.availWidth, (new Date).getTimezoneOffset(), a, b, c.cpuClass, c.platform, c.doNotTrack, c.maxTouchPoints || c.msMaxTouchPoints, e()].join("|")
-        },
-        e = function() {
-            try {
-                var a = document.createElement("canvas");
-                a.width = 400;
-                a.height = 200;
-                a.style.display = "inline";
-                var b = a.getContext("2d");
-                b.textBaseline = "alphabetic";
-                b.fillStyle = "#f60";
-                b.fillRect(125, 1, 62, 20);
-                b.fillStyle = "#069";
-                b.font = "23pt Arial";
-                b.fillText("DWM fjordbank vext zz4, \ud83d\ude03", 2, 15);
-                b.fillStyle = "rgba(102, 204, 0, 0.7)";
-                b.font = "23pt Arial";
-                b.fillText("DWM fjordbank vext zz4, \ud83d\ude03", 4, 45);
-                b.globalCompositeOperation = "multiply";
-                b.fillStyle = "rgb(255,0,255)";
-                b.beginPath();
-                b.arc(50, 50, 50, 0, 2 * Math.PI, !0);
-                b.closePath();
-                b.fill();
-                b.fillStyle =
-                    "rgb(0,255,255)";
-                b.beginPath();
-                b.arc(100, 50, 50, 0, 2 * Math.PI, !0);
-                b.closePath();
-                b.fill();
-                b.fillStyle = "rgb(255,255,0)";
-                b.beginPath();
-                b.arc(75, 100, 50, 0, 2 * Math.PI, !0);
-                b.closePath();
-                b.fill();
-                b.fillStyle = "rgb(255,0,255)";
-                b.arc(75, 75, 75, 0, 2 * Math.PI, !0);
-                b.arc(75, 75, 25, 0, 2 * Math.PI, !0);
-                b.fill("evenodd");
-                return a.toDataURL()
-            } catch (g) {
-                return ""
-            }
-        };
+## Choozle
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Choozle’s privacy policy states: 
 
-```
+`https://choozle.com/privacy-policy/`
+
+>Automatically collected information: To make our Site and Services more useful to you, our servers (which may be hosted by a third-party service provider) may collect information from you, including browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, precise location data and/or a date and time stamp for your visit. We also use Cookies (as defined below) and navigational data to gather information regarding the date and time of your visit … We also could use data from mobile applications, including advertising IDs and mobile device IDs. 
+
+>Information collected through our service: Our service allows our clients to collect information about their current or potential customers using cookies, pixel tags, web beacons, web bugs, televisions or OTT devices, and other collection technologies. While we do not collect this information on our site, we want you to be aware of how our services can be used to collect your information using publically available data and other collection technologies...We also source matched or linked data that enables our clients to pseudonymously match users across channels.
+
+
+Choozle’s website states: 
+
+`https://choozle.com/features/` 
+
+>Launch highly-targeted campaigns with custom audiences created from first or third-party data. You can also target specific locations or based on web content and page categories. 
+
+>- Third-party Data: 60+ data providers, purchase history targeting, behavioral targeting, psychographics targeting,
+>- Location and Content: Geolocation Targeting, IP Address Targeting, Contextual Targeting, Keyword Targeting, Postal code Targeting
+>- Other Targeting: Cross-Device Targeting
+
 [Go back to top](#tracker-descriptions)
 
 ## ClearLink
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://mapi.clearlink.com/js/cl-track.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1755,7 +1852,7 @@ function c(e, t, n, r, i) {
 [Go back to top](#tracker-descriptions)
 
 ## Clickayab
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://supplier.clickyab.com/api/multi.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1766,7 +1863,7 @@ swfContainerId:"fingerprintjs2"
 [Go back to top](#tracker-descriptions)
 
 ## ClickFrog
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://franecki.net/js/lib.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1802,7 +1899,7 @@ Script: `http://franecki.net/js/lib.js`
 [Go back to top](#tracker-descriptions)
 
 ## ClickGuard
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://io.clickguard.com/s/cHJvdGVjdG9y/KsNIeBlt`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1866,7 +1963,7 @@ Script: `https://io.clickguard.com/s/cHJvdGVjdG9y/KsNIeBlt`
 [Go back to top](#tracker-descriptions)
 
 ## Clixtell
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://app.clixtell.com/scripts/latest.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -1923,6 +2020,17 @@ function n(t) {
             }, x.open("POST", l + "//tracker.clixtell.com/track", !0), x.setRequestHeader("Content-Type", "application/json;charset=UTF-8"), x.send(JSON.stringify(s))
         }
 
+```
+[Go back to top](#tracker-descriptions)
+
+## Cloudflare
+This service has been classified as `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://assets.hcaptcha.com/c/7f492a3/hsw.js`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+```
+{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "#000000", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "get"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"❤️🤪🎉👋\",50,70]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "#000000", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "get"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"❤️🤪🎉👋\",50,70]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
 [Go back to top](#tracker-descriptions)
 
@@ -2048,6 +2156,29 @@ Raw log:
 ```
 [Go back to top](#tracker-descriptions)
 
+## ConversantMedia
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Conversant's privacy policy States:
+
+`https://www.conversantmedia.com/legal/privacy`
+
+>We may use technologies such as cookies, log files, pixel tags or other similar technologies to collect Non-PII about the browser or device you are using, including browsing activity, online transactions, and IP addresses. We may also receive similar Non-PII from third parties, which may additionally include the types of programming you view on your television…All Non-PII received and collected by Conversant from the various sources may be combined and used to provide you relevant advertising, and for other purposes as determined by Conversant.  
+  
+>We also may use Internet browsing, cross-mobile application browsing and online purchase data associated with a user, on a Non-PII level, across multiple devices to develop a predictive statistical user profile of the end user's needs and interests for the purpose of sending them relevant advertisements on multiple browsers and devices. This is called cross-device IBA. We may also use this cross-device functionality for the purpose of more accurately paying third-parties affiliate commissions, as described in the paragraph directly above.
+
+Conversant's website states: 
+`https://www.conversantmedia.com/case-studies/cross-device-remarketing` (1)  
+
+>Conversant cross-device remarketing consistently reaches site visitors across all their devices—mobile, tablet and desktop. (1)  
+
+`https://www.conversantmedia.eu/solutions/media-solutions/media-platform` (2)
+
+>Whether you choose a mobile-only or integrated multi-device campaign, you’ll benefit from the insights that come from our incredibly rich cross-device consumer profiles. Our profiles encompass browsing, interaction, shopping and purchase data as well as mobile-specific insights like device and location. With superior cross-device mapping and a potential reach of 90+ percent of both iOS and Android, we offer an unparalleled opportunity to reach and message consumers across channels and on virtually any device they choose. In fact, we have full SDK integration with more than 20,000 apps. Conversant's cross-device solutions deliver more than three times the engagement and five times the conversions of single device programmes. From standard banners to rich, interactive full-screen executions, we offer an incredibly broad creative suite to accommodate virtually any marketing goal or metric. (2)
+
+
+[Go back to top](#tracker-descriptions)
+
 ## CryptoLoot
 This service has been classified as `Cryptomining` for the following reasons:
 ### Policy Review
@@ -2070,56 +2201,39 @@ function _0x45bcc2() {
 [Go back to top](#tracker-descriptions)
 
 ## DoubleVerify
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
-1. Doubleverify states they attempt to identify particular devices - `https://www.doubleverify.com/privacy/`
+DoubleVerify's Privacy Policy States: 
 
-> and other data including browser configuration parameters such as browser language and session storage and local storage settings, and characteristics of your device such as the CPU class and time zone setting.
+`https://doubleverify.com/privacy-policy/`
 
-> Device identification technology, which analyzes device parameters collected as described above, including IP address and browser header information, to probabilistically identify a particular device. 
-### Technical Review
-1. Script uses canvas/font fingerprinting to fingerprint users
+> Categories of data and personal information collected by the DoubleVerify Services:  
+>> Digital environment attributes – The type of connected device the advertisement is being delivered to: mobile, desktop, connected TV or other device, the browser type and version used to render the page where the ad appears and the operating system are collected to determine what version of our code would properly run in that environment and to properly measure if the advertisement had the chance to become viewable on the screen according to industry standards which vary between environments.  
+>> Viewability attributes – The location of the ad on the page, the size of the ad, the size of the screen, the size of the viewport, the tab focus status, the browser focus status, the time duration the ad was in the viewable part of the webpage and the scroll position of the webpage are collected to determine and report to our customers if the advertisement had the chance to become viewable on the screen.  
+>> Exposure and engagement attributes – Data that shows if the ad was clicked, resized, skipped, muted, paused, rotated, hovered or changed volume is collected to help our customers measure the performance of the advertisement, the advertising campaign or the media property. The data is not tied back to any personally identifiable information.  
 
-```
-var canvasDrawBG = c.g.createElement("canvas");
-if (canvasDrawBG.getContext && canvasDrawBG.getContext("2d")) {
-  var ctx = canvasDrawBG.getContext("2d");
-  /** @type {string} */
-  ctx.textBaseline = "top";
-  /** @type {string} */
-  ctx.font = "14px Arial";
-  /** @type {string} */
-  ctx.textBaseline = "alphabetic";
-  /** @type {string} */
-  ctx.fillStyle = "#f60";
-  ctx.fillRect(0, 0, 62, 20);
-  /** @type {string} */
-  ctx.fillStyle = "#069";
-  ctx.fillText("!image!", 2, 15);
-  /** @type {string} */
-  ctx.fillStyle = "rgba(102, 204, 0, 0.7)";
-  ctx.fillText("!image!", 4, 17);
-  return canvasDrawBG.toDataURL();
-}
-```
+> Categories of data and personal information collected by the DoubleVerify Services solely for fraud prevention and geo compliance purposes:  
+>> Device identifiers and attributes – IP address, user agent, advertising ID, and user ID, in order to analyze whether the device is participating in a fraudulent scheme.  
+>> IP addresses are collected to extract geolocation information.
 
-2. Script probes device properties to attempt to fingerprint users
 
-```
-sortable.push(["lang", this.navigator.language || navigator.browserLanguage]);
-sortable.push(["tz", d.i.getTimezoneOffset()]);
-sortable.push(["hss", this.Yt() ? "1" : "0"]);
-sortable.push(["hls", this.Xt() ? "1" : "0"]);
-sortable.push(["odb", typeof this.o.openDatabase]);
-sortable.push(["cpu", this.navigator.cpuClass || ""]);
-sortable.push(["pf", this.navigator.platform || ""]);
-sortable.push(["dnt", this.navigator.doNotTrack || ""]);
-sortable.push(["canv", this.Ps()]);
-```
+[Go back to top](#tracker-descriptions)
+
+## Drawbridge
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Drawbridge/Linkedin’s privacy policy states:
+
+`https://www.linkedin.com/legal/privacy-policy`
+
+>We use cookies and similar technologies (e.g., pixels and ad tags) to collect data (e.g., device IDs) to recognize you and your device(s) on, off and across different services and devices where you have engaged with our Services. We also allow some others to use cookies as described in our Cookie Policy. If you are outside the Designated Countries, we also collect (or rely on others who collect) information about your device where you have not engaged with our Services (e.g., ad ID, IP address, operating system and browser information) so we can provide our Members with relevant ads and better understand their effectiveness.
+
+>Your Device and Location: When you visit or leave our Services (including some plugins and our cookies or similar technology on the sites of others), we receive the URL of both the site you came from and the one you go to and the time of your visit. We also get information about your network and device (e.g., IP address, proxy server, operating system, web browser and add-ons, device identifier and features, cookie IDs and/or ISP, or your mobile carrier). If you use our Services from a mobile device, that device will send us data about your location based on your phone settings.
+
 [Go back to top](#tracker-descriptions)
 
 ## ECSAnalytics
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://common.ecsanalytics.com/js/vendor/fp.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2141,7 +2255,7 @@ Request URL: https://mittmedia.ecsanalytics.com/analytics/p.gif?r=ex&cid=REMOVED
 [Go back to top](#tracker-descriptions)
 
 ## EroAdvertising
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://go.ero-advertising.com/loadeactrl.go?pid=71279&siteid=111148&spaceid=3830036`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2183,78 +2297,163 @@ eaCtrl.connectors = {
 
 [Go back to top](#tracker-descriptions)
 
+## Experian
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Experian's privacy policy States:
+
+`https://www.experian.co.uk/legal/privacy-statement`
+
+>Information specific to Aperture Data Studio and the SaaS Self Service Portal: Whenever a visitor visits our services, we may collect information from such visitor regarding his or her use of that website or application, such as pages visited, links clicked, non-sensitive text entered, and mouse movements, as well as information more commonly collected such as his/her IP address, referring URL, browser, operating system, cookie information, CSS animations and dynamic content (“Visitors’ Information“). Visitors’ Information, in the aggregate, may be considered as Personal Information as it may be linked to a user identifier or may include Personal Information. Visitors’ Information may include: User unique ID (stored in a cookie for tracking and may be stored on our servers), Visitors’ clicks/touches on elements, changes to input field (like text fields, CSS selector or timestamp), elements and session meta-data, input on fields, system errors, window size and changes to size, User agent (browser, device), mouse position, page snapshot, whether a user clicked on a play or pause button of a video, and other events (scrolling, focusing, hiding pages etc.). Such information may identify the visitor. We use IP addresses to determine End Users’ geolocation (country and city in which you are located) which allows us to block recordings for certain End Users. 
+
+
+Experian's website states:
+`https://www.experian.co.uk/business/marketing/multi-channel-marketing/campaign-personalisation/index` (1)
+
+>By consistently applying data across and the entire customer journey, you’ll offer more personalised experiences so your customers feel understood and engaged.  Experian has the data, media partners, advertising services and analytical capabilities to help you create targeted campaigns and seamless experiences. (1)
+
+`https://www.experian.co.uk/business/data-management/single-customer-view/index` (2)
+
+>Our approach focuses on the data and provides a methodology that will consolidate, clean, fix, link, harmonise, and enrich with additional customer insights across all data assets within a business.
+>- Investigate- Extract data from systems across your organisation, consolidate it, and assess its accuracy and completeness as the first step to cleansing and validating.
+>- Assess- Consolidate and profile the data so you can assess potential strengths and weaknesses within it, in the context of business priorities.
+>- Improve- Bring consistency to the way your data is formatted, ensure your customer data is accurate, and fill the gaps using our unique range of reference data including location and socio-demographic data sets.
+>- Control - Compare records, identify and harmonise duplicates, create a golden nominal and give each individual a unique identification number and ensure you can maintain an up-to-date and accurate view over time. (2) 
+
+
+[Go back to top](#tracker-descriptions)
+
 ## EyeNewton
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://eyenewton.ru/scripts/callback.min.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-                var c = setTimeout(function() {
-                    return console.warn('Audio fingerprint timed out. Please report bug at https://github.com/Valve/fingerprintjs2 with your user agent: "' + navigator.userAgent + '".'), i.oncomplete = function() {}, i = null, n("audioTimeout")
-                }, t.timeout);
-
-
-```
-2. Sends computed fingerprint back to server
-```
-ajax.get(settings_url, e, function(t) {
-                if (eyenewtonLoader.next(), !t) return clearInterval(init_interval), !1;
-                try {
-                    var e = JSON.parse(t)
-                } catch (e) {
-                    return remoteErrorLog(e, "getSettings", typeof t + " " + t.length + " " + t), !1
-                }
-                if (0 == e.length) return clearInterval(init_interval), !1;
-                if ("undefined" != typeof newton_callback_id_internal && null != e.callback_id && newton_callback_id_internal != e.callback_id) return clearInterval(init_interval), !1;
-                if ((default_settings = merge_options(default_settings, e)).callback) {
-                    default_settings.appearance_disabled = parseInt(default_settings.appearance_disabled), disableAppearanceOnMainPageLot(), default_settings.appearance_init = parseInt(default_settings.appearance_init), default_settings.appearance_exit = parseInt(default_settings.appearance_exit), default_settings.appearance_time = parseInt(default_settings.appearance_time), default_settings.current_time = parseInt(default_settings.current_time), default_settings.show_once_day = parseInt(default_settings.show_once_day), default_settings.hide_after_hours = parseInt(default_settings.hide_after_hours), default_settings.show_on_mobile = parseInt(default_settings.show_on_mobile), default_settings.dialog_enabled = parseInt(default_settings.dialog_enabled), default_settings.disable_delayed_calls = parseInt(default_settings.disable_delayed_calls), default_settings.have_departments = parseInt(default_settings.have_departments), default_settings.silent_mode = 1 == default_settings.silent_mode, default_settings.is_multiwidget = parseInt(default_settings.is_multiwidget), default_settings.multiwidget_application = parseInt(default_settings.multiwidget_application), default_settings.multiwidget_consultant = parseInt(default_settings.multiwidget_consultant), default_settings.enable_mobile_direct_call = parseInt(default_settings.enable_mobile_direct_call), default_settings.enable_log = parseInt(default_settings.enable_log), default_settings.chat_enabled = parseInt(default_settings.chat_enabled), default_settings.chat_active = parseInt(default_settings.chat_active), default_settings.manager_photo_enabled = parseInt(default_settings.manager_photo_enabled), default_settings.banner_enabled = parseInt(default_settings.banner_enabled), default_settings.banner_bottom = parseInt(default_settings.banner_bottom), default_settings.mini_version_enabled = parseInt(default_settings.mini_version_enabled);
-                    var n = getParam("show_phone_button");
-                    void 0 !== n && (default_settings.show_phone_button = n), null == (init_time = getInitTime()) && setInitTime(init_time = default_settings.current_time)
-                }
-                settingsLoaded = !0
-            })
-```
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+`https://eyenewton.ru/docs/privacy_policy.pdf`
+PRIVACY POLICY NOT RELEVANT AND "PROCESSING OF PERSONAL DATA" SECTION ONLY APPLIES TO CONSENT
 
 [Go back to top](#tracker-descriptions)
 
 ## eyeReturn Marketing
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. Eyereturn claims that they collect a variety of device fingerprints for the purpose of identifying users - `https://eyereturnmarketing.com/privacy/`
 
 > Statistical IDs are created via an algorithm using non-personally identifiable and pseudonymous information about a computer or device. The information used may include the operating system, user-agent string, Web browser, approximate location, installed fonts, and similar information. This information makes your computer or device distinct enough for our systems to determine within a reasonable probability that they are encountering the same computer or device. These IDs are not used to target advertisements, and are only used for campaign analytics and reporting purposes
+
+[Go back to top](#tracker-descriptions)
+
+## Facebook
+This service has been classified as `Social`, `Content`, `Disconnect`, `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Facebook's Privacy Policy States:  
+  
+`https://www.facebook.com/policies/cookies` (1)
+  
+>Cookies are used to store and receive identifiers and other information on computers, phones, and other devices. Other technologies, including data we store on your web browser or device, identifiers associated with your device, and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies.”  (1)
+  
+>Cookies help us serve and measure ads across different browsers and devices used by the same person.  (1)
+  
+>We also use cookies to help you opt out of seeing ads from Facebook based on your activity on third-party websites.  (1)
+  
+>We may place cookies on your computer or device, and receive information stored in cookies, when you use or visit: Websites and apps provided by other companies that use the Facebook Products, including companies that incorporate the Facebook Technologies into their websites and apps. Facebook uses cookies and receives information when you visit those sites and apps, including device information and information about your activity, without any further action from you. This occurs whether or not you have a Facebook account or are logged in.  (1)
+
+`https://m.facebook.com/policy.php` (2)
+
+>Device Information: As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalize the content (including ads) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device. (2)  
+>  
+>Information we obtain from these devices includes:
+>-   Device attributes: information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
+>-   Device operations: information about operations and behaviors performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements (which can help distinguish humans from bots).
+>-   Identifiers: unique identifiers, device IDs, and other identifiers, such as from games, apps or accounts you use, and Family Device IDs (or other identifiers unique to Facebook Company Products associated with the same device or account).
+>-   Device signals: Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers.
+>-   Data from device settings: information you allow us to receive through device settings you turn on, such as access to your GPS location, camera or photos.
+>-   Network and connections: information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network (2)
+
+Facebook's Website States:  
+  
+`https://www.facebook.com/business/news/cross-device-measurement`
+  
+>Today we’re launching cross-device reporting for Facebook ads, enabling advertisers to see for the first time how people are moving between devices — across mobile apps and the web — before they convert.  
+  
+>With the new cross-device report, advertisers are now able to view the devices on which people see ads and the devices on which conversions subsequently occur. For instance, a marketer can view the number of customers that clicked an ad on an iPhone but then later converted on desktop, or the number of people that saw an ad on desktop but then converted on an Android tablet.  
+  
+>Josh McFarland, CEO of TellApart, a Facebook Preferred Marketing Developer, adds: “Tracking click and conversion data deterministically across devices has confirmed what we know to be true: mobile ads drive commerce everywhere. This new reporting from Facebook has been a game-changer in our ability to help clients like Neiman Marcus and Sur La Table correctly value and invest in their mobile ads efforts.”
+
+[Go back to top](#tracker-descriptions)
+
 ## Fanplayr
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://d38nbbai6u794i.cloudfront.net/client/production/platform/releases/1.56.0/platform.min.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Fanplayr’s privacy policy states: 
+ 
+`https://fanplayr.com/files/en/Fanplayr-Privacy-Policy-May-2018.pdf`
+ 
+>Passively Collected Information 
+>•Automatically Collected Information. When You use the Services, some information is also automatically collected, such as Your Internet Protocol (IP) address, Your operating system, the browser type, the address of a referring Web site and Your activity on the Services. 
+>•"Cookies" and Clear Gif Information. We may automatically collect certain information using "cookies" or clear gifs. Cookies are small data files that are stored on a User's hard drive at the request of a Web Site to enable such Web site to recognize Users who have previously visited them and retain certain information such as user preferences and history. If we combine cookies with or link them to any personally identifiable information, we would treat this information as Personal Data. Clear gifs are small, invisible graphic images that may be used by the Services or in emails relating to the Services to collect certain information and monitor user activity on the Services and may be combined with Your IP address or other information that we have gathered with respect to a User's use of the Services 
+>•We use analytics tools to track how You get to Web Sites and to understand how You use the WebSites after You arrive."
 
-```
-                cpuClassKey: function(a) {
-                    return this.options.excludeCpuClass || a.push(this.getNavigatorCpuClass()), a
-                },
-                platformKey: function(a) {
-                    return this.options.excludePlatform || a.push(this.getNavigatorPlatform()), a
-                },
-                doNotTrackKey: function(a) {
-                    return this.options.excludeDoNotTrack || a.push(this.getDoNotTrack()), a
-                },
-                canvasKey: function(a) {
-                    return !this.options.excludeCanvas && this.isCanvasSupported() && a.push(this.getCanvasFp()), a
-                },
-                webglKey: function(a) {
-                    return !this.options.excludeWebGL && this.isCanvasSupported() && a.push(this.getWebglFp()), a
-                },
-                pluginsKey: function(a) {
-                    return this.isIE() ? a.push(this.getIEPluginsString()) : a.push(this.getRegularPluginsString()), a
-                },
+[Go back to top](#tracker-descriptions)
 
-```
-2. Script then sends fingerprint to Fanplayer server
+## Fiksu
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Fiksu's privacy policy States:
+
+`https://fiksu.com/privacy-policy`
+
+>Marketing Service of FiksuDSP - When you click on a Client ad or application link delivered by FiksuDSP, FiksuDSP servers may receive and store an advertising identifier ("Advertising ID") or device identifier ("Device ID"), either of them is a pseudonymous number that is associated with your mobile or CTV device. FiksuDSP cannot use the Advertising/Device ID to identify you personally, but it does enable us to deliver relevant advertising to each mobile or CTV device. In addition to the Advertising/Device ID, we collect information about the kind of mobile/CTV device you use (e.g., iPhone, Samsung, Roku etc.), the operating system for your mobile device (e.g., Android, iOS, Fire OS etc.), IP address, websites you may be visiting, content that you may be watching through video streaming CTV/OTT applications, the applications you download from Clients of FiksuDSP, when, how, and how often you use those applications.  
+  
+>We use your device's Advertising/Device ID and other information about Client applications you download to help our Clients understand which ads are most effective at generating downloads of our Client's applications or at achieving other goals defined by Client. We also use your Advertising/Device ID and the information associated with your device Advertising/Device ID over time (e.g., the applications you download, when and how you use those applications, and any publisher-provided demographic data) to enhance our services and to select FiksuDSP' Client ads that are most likely to be of interest to you.
+
+Fiksu's website states: 
+
+`https://fiksu.com/products/DSP/retargeting/` (1)
+
+>Single-pixel cross-device targeting: Fiksu is the only company who can do this with one pixel. (1)
+
+`https://fiksu.com/#home-scroll-learn-more` (2)  
+
+>Looking to raise your brand’s profile with ads cross-platform? Or maybe you want to retarget lapsed customers that haven’t made a purchase in a while? Fiksu’s unique combination of aggregated user data and audience-building tools allows us to address brands’ biggest marketing challenges, reaching audiences on mobile and CTV/OTT. (2)  
+
+
+[Go back to top](#tracker-descriptions)
+
+## Flocktory
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Flocktory's privacy policy States:
+
+`https://www.flocktory.com/en/data_privacy/`
+
+>As a Flocktory client, you are a Data Controller and Flocktory is acting as your Data Processor for your users’ data. Flocktory collects and processes data of website visitors and their usage of the website with the purpose of:
+>-   Analysis and profiling of data subjects
+>-   Fulfilling its contractual obligations with its clients for services that improve the user experience on the client website.
+>-   Improve our own website experience and services
+>-   Electronic direct marketing
+
+
+>Data that Flocktory collects may include:
+>-   Online identifiers (cookies, device, browser information)
+>-   Geographic location (country, region, city)
+>-   Data about social media accounts
+>-   Data about purchases
+>-   Data about visited pages
+>-   Data about membership / registration status
+
+Flocktory's website states:
+
+`https://www.flocktory.com/en/about-us/`
+
+>Our solutions come as a complete platform which addresses the entire customer journey and use newest technology and communication channels.
+
+'https://www.flocktory.com/en/platform/'
+
+>Flocktory tracks millions of data points every single day and combines user behavior and customer shopping history with strong cohort analysis and predictive algorithms to support and automate your business decisions
+
+
 [Go back to top](#tracker-descriptions)
 
 ## Foresee
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. Answers Cloud Services uses the Foresee SDK (subsidiary of Answers Cloud Services) to provide a variety of services including fingerprinting. Their developer documentation includes definitions of their cookie passed parameters, including fingerprint:
 > Fingerprint (fp) - Anonymous identifier for site visitor, used for cookieless tracking in 19.4.0+.
@@ -2339,7 +2538,7 @@ This service has been classified as `Fingerprinting` for the following reasons:
 [Go back to top](#tracker-descriptions)
 
 ## Friends2Follow
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics`, `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://assets-us-u11ncmyydwz.stackpathdns.com/sites/all/modules/friends2follow/dist/friends2follow_socialstack.min.js?v=201902040`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2374,7 +2573,7 @@ Script: `https://assets-us-u11ncmyydwz.stackpathdns.com/sites/all/modules/friend
 [Go back to top](#tracker-descriptions)
 
 ## FuelX
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.fuelx.com/js/fp2.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2406,7 +2605,7 @@ Request URL: https://fsr3.fuel451.com/ids?browserId=REMOVED&fxidhash=REMOVED&bid
 [Go back to top](#tracker-descriptions)
 
 ## Gleam
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://js.gleam.io/assets/w-a08f4344eff99f85d18b1274a8789282a47d9e81d80d2fec172019c7e5fab781.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2442,8 +2641,39 @@ if (!$scope.revealed() && !$scope.isLoading) return $scope.isLoading = !0, $http
 
 [Go back to top](#tracker-descriptions)
 
+## Google
+This service has been classified as `Email`, `Social`, `Content`, `Analytics`, `Disconnect`, `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Google's Privacy Policy States: 
+
+`https://policies.google.com/privacy`
+
+>We collect information about your activity in our services…The activity information we collect may include: Activity on third-party sites and apps that use our services.
+
+>We use various technologies to collect and store information, including cookies, pixel tags, local storage, such as browser web storage or application data caches, databases, and server logs. 
+
+>We use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features tailored to how you use our services...We also use algorithms to recognize patterns in data. We may combine the information we collect among our services and across your devices for the purposes described above. When you’re not signed in to a Google Account, we store the information we collect with unique identifiers tied to the browser, application, or device you’re using. This helps us do things like maintain your language preferences across browsing sessions. 
+
+>Categories of personal information we collect: Internet, network, and other activity information such as: views and interactions with content and ads; information about the interaction of your apps, browsers, and devices with our services (like IP address, crash reports, and system activity); and activity on third-party sites and apps that use our services. 
+
+>Sensor data from your device: Your device may have sensors that can be used to better understand your location and movement. For example, an accelerometer can be used to determine your speed and a gyroscope to figure out your direction of travel. 
+
+>Information about things near your device: If you use Google’s Location services on Android, we can improve the performance of apps that rely on your location, like Google Maps. If you use Google’s Location services, your device sends information to Google about its location, sensors (like accelerometer), and nearby cell towers and Wi-Fi access points (like MAC address and signal strength). All these things help to determine your location. You can use your device settings to enable Google Location services.
+
+Google's website states: 
+
+`https://support.google.com/analytics/answer/7532985?hl=en` (1) 
+
+>Connect data about devices and activities from different sessions so you can get an understanding of user behavior at each step of the conversion process, from initial contact to long-term retention. Google Analytics models behavior for your whole user base across device types. The data is user based rather than session based. This behavior modeling does not require User-ID views. Optimize user experience for the full customer journey across devices. Optimize ad spend based on cross-device usage. Remarket to users across devices. (1) 
+
+`https://www.blog.google/products/marketingplatform/360/cross-device-capabilities/` (2)
+
+>Analytics will now help you understand the journey your customers are taking across their devices as they interact with your website, giving you a complete view of the impact of your marketing so you can run smarter campaigns that deliver more tailored experiences to your customers. Cross Device reporting in Analytics takes into account people who visit your website multiple times from different devices. Now, instead of seeing metrics in Analytics that show two separate sessions (e.g., one on desktop and the other on mobile), you’ll be able to see when users visited your website from two different devices (2)
+
+[Go back to top](#tracker-descriptions)
+
 ## GrapheneMedia
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://www.graphenedigitalanalytics.in/ccanalytics/fingerprint2.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2492,7 +2722,7 @@ This service has been classified as `Cryptomining` for the following reasons:
 [Go back to top](#tracker-descriptions)
 
 ## HilltopAds
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://hilltopads.net/p?zoneId=1019565-1019701`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2529,7 +2759,7 @@ Script: `http://hilltopads.net/p?zoneId=1019565-1019701`
 [Go back to top](#tracker-descriptions)
 
 ## HotelChamp
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.hotelchamp.com/app/launcher/kSqmBQZzCo.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2577,46 +2807,207 @@ Script: `https://cdn.hotelchamp.com/app/launcher/kSqmBQZzCo.js`
 [Go back to top](#tracker-descriptions)
 
 ## HotMart
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://api-identification.hotmart.com/id.min.js?account=a7d0d5a7-b5f0-49a5-9627-ebe36b4c8e8f`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-webglKey: function(a) {
-                    if (this.options.excludeWebGL) return "undefined" === typeof NODEBUG && this.log("Skipping WebGL fingerprinting per excludeWebGL configuration option"), a;
-                    if (!this.isWebGlSupported()) return "undefined" === typeof NODEBUG && this.log("Skipping WebGL fingerprinting because it is not supported in this browser"), a;
-                    a.push(this.getWebglFp());
-                    return a
-                }, adBlockKey: function(a) {
-                    this.options.excludeAdBlock || a.push(this.getAdBlock());
-                    return a
-                }, hasLiedLanguagesKey: function(a) {
-                    this.options.excludeHasLiedLanguages || a.push(this.getHasLiedLanguages());
-                    return a
-                }, hasLiedResolutionKey: function(a) {
-                    this.options.excludeHasLiedResolution || a.push(this.getHasLiedResolution());
-                    return a
-                }
-```
-2. Sends computed fingerprint back to server
-```
-window.hotlobj.config = {
-    CONSOLE_DEBUG: 0,
-    VISUAL_DEBUG: 0,
-    HOTID: 'hotid',
-    COOKIE_AGE_MINUTES: 25920000,
-    DOMAIN: '.hotmart.com',
-    IDENTIFICATION_PIXEL_URL: 'https://api-identification.hotmart.com/id.gif',
-    TRACKING_REST_URL: 'https://tracking-api.hotmart.com/rest/track'
-};
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Hotmart's Privacy Policy States: 
 
+`https://www.hotmart.com/en/pp` (1) 
+>HOTMART may collect, receive and store, automatically, Personal Data and information in its servers about the activities from the users’ browsers, including geolocation, IP addresses, cookies, or other identifiable character sequences, and other information from the transactions made through the Platform. (1) 
 
-```
+`https://www.hotmart.com/en/cookie-policy` (2)
+>Other data collection tools, similar to Cookies, are also employed by the HOTMART Platform, analytic and tracking cookies that aim to collect USER data and understand their behavior to enable the Platform to work. (2)
 
 [Go back to top](#tracker-descriptions)
 
+## ie8eamus
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `http://ie8eamus.com/sfp.js`
+1. Script accesses several Javascript API calls known to invasively fingerprint users. Some examples (APIs captured using [OpenWPM](https://github.com/mozilla/OpenWPM)):
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "OfflineAudioContext.createOscillator",
+  "arguments": null,
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "OscillatorNode.type",
+  "arguments": null,
+  "value": "triangle"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "OfflineAudioContext.createOscillator",
+  "arguments": null,
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "OscillatorNode.type",
+  "arguments": null,
+  "value": "triangle"
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "OfflineAudioContext.createOscillator",
+  "arguments": null,
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "http://sandownautorepair.com/",
+  "script_url": "http://ie8eamus.com/sfp.js",
+  "script_line": "1",
+  "symbol": "OscillatorNode.type",
+  "arguments": null,
+  "value": "triangle"
+}
+```
+[Go back to top](#tracker-descriptions)
+
 ## iMedia
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 ```
       Plugin.prototype.get = function(options) {
@@ -2687,8 +3078,32 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 ```
 [Go back to top](#tracker-descriptions)
 
+## Infolinks
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Infolink's privacy policy States:
+
+`https://www.infolinks.com/privacy-policy/`
+
+>We use cookies and other similar tracking technologies (such as pixel tags and web or browser caches) to collect information automatically from End Users’ devices. They help us identify unique browsers or devices used by an End User and to perform functions like, for example, limiting the same ad from continuously reappearing, ensuring that ads are properly displayed on our Publisher Clients’ Digital Properties, and serving an ad to the End User.  
+  
+>Specifically, the information we collect automatically may include IP address, operating system type and version, browser type and version, cookie ID, an individual’s activities on the Infolinks Properties, and other information about the individual’s system and connection and how the individual interacts with the Infolinks Properties and other websites.
+
+[Go back to top](#tracker-descriptions)
+
+## iShumei
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://static.fengkongcloud.com/fpv2.js`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+```
+{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "24px 'Arial'", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "#e88", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#f99", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"http://www.ishumei.com\",2,15]", "operation": "call"}, {"value": "rgba(120, 180, 0, 0.7)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"http://www.ishumei.com\",4,17]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
+```
+[Go back to top](#tracker-descriptions)
+
 ## IslayTech
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://connect.islay.tech/analyzer/collector.min.js?x=1549440528024`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2732,7 +3147,7 @@ Script: `https://connect.islay.tech/analyzer/collector.min.js?x=1549440528024`
 [Go back to top](#tracker-descriptions)
 
 ## ismatlab.com
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://ismatlab.com/cp/public/js/cp.js?id_adm=07948ed229ec4410a2f25c62a87188e8&sys=10012424.UA&smpl=on`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2808,7 +3223,7 @@ function h(i) {
 [Go back to top](#tracker-descriptions)
 
 ## Itch
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://static.itch.io/widget.min.js?1549413662`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2848,8 +3263,58 @@ This service has been classified as `Cryptomining` for the following reasons:
 
 [Go back to top](#tracker-descriptions)
 
+## justuno
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Justuno’s privacy policy states: 
+ 
+`https://www.justuno.com/legal/privacy-policy/`
+ 
+>"Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you or your business. A hashed version of your email address, which can not be un-hashed for the use of sending any emails, may be sent to our partners to help recognize you across different channels and platforms, including but not limited to, computers, mobile devices, including TV addressability, over time for advertising, analytics, attribution, and reporting purposes. The information requested and collected from you may vary."
+> 
+>"Non-Identifiable Data: When you interact with Justuno through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you, unless it is combined with Personal Information. Justuno may store such information itself or such information may be included in databases owned and maintained by Justuno affiliates, agents or service providers. We may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors’ Internet service providers"
+
+[Go back to top](#tracker-descriptions)
+
+## KISSmetrics
+This service has been classified as `Analytics` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Kissmetrics' privacy policy States:
+
+`https://www.kissmetricshq.com/privacy/`
+
+>Visitors to Metrics Enterprises Clients’ Websites - Our Clients may use customized and proprietary Metrics Enterprises code, software and/or services (“Service(s)”) to obtain information regarding the activities that users engage in while visiting their web pages (“Client User Data”). When a user visits a website that uses Metrics Enterprises Service, Metrics Enterprises code contained on the website contacts Metrics Enterprises servers and enables Metrics Enterprises to collect Client User Data. Some Clients may also use their own code to obtain Client User Data and then send such information to Metrics Enterprises servers. Client User Data may include Personally Identifiable Information, including, but not limited to, the types of information listed for Metrics Enterprises Client Information above.  
+  
+>In addition, Metrics Enterprises may collect certain information about a Client’s visitor’s computer that may be provided by the visitor’s browser. This includes browser information, operating system information, mobile device information, IP address, time of visit, and the referring site, application, or service. Such information may be collected and shared with the Metrics Enterprises Client even though not specifically requested by the Client.  
+  
+>Web Beacons. Metrics Enterprises may also collect certain information using Web Beacons. “Web Beacons” are electronic images that may be used on Metrics Enterprises Website, in Metrics Enterprises Service, or in our email communications. They are used, for example, to count website visits or to tell if an email has been opened and acted upon.
+
+Kissmetrics' website states: 
+
+`https://www.kissmetricshq.com/kissmetrics-vs-google-analytics/` (1)  
+
+>When someone uses multiple devices and browsers, Kissmetrics connects all their data to a single person. (1)  
+  
+'https://www.kissmetricshq.com' (2)
+
+>See a user’s full customer journey across devices (2) 
+
+
+[Go back to top](#tracker-descriptions)
+
+## Kitewheel
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://cdn.kitewheel.com/webTrack.v1.js`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+```
+{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
+```
+[Go back to top](#tracker-descriptions)
+
 ## Konduto
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://i.k-analytix.com/k.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2901,7 +3366,7 @@ Script: `https://i.k-analytix.com/k.js`
 [Go back to top](#tracker-descriptions)
 
 ## LeadsHub
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://cdn.ztsrv.com/js/0.5.0/ztag.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2922,8 +3387,77 @@ Request URL: http://us-west-2-v2-t.ztsrv.com/1/i/REMOVED;za/p.gif
 ```
 [Go back to top](#tracker-descriptions)
 
+## LiveRamp
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+LiveRamp's privacy policy States:
+
+`https://liveramp.com/privacy/service-privacy-policy/`
+
+>LiveRamp provides Connectivity Services designed to enable our clients to reach consumers with greater efficiency and more relevant messages across various digital channels, including online, mobile, email, and addressable TV. 
+
+>LiveRamp Mobile Connectivity Services - Connectivity Services for mobile ID integrations are similar to cookie integrations except they use the mobile advertising ID assigned to the device instead of a cookie – namely the Apple ID for Advertising (IDFA) and the Android Advertising ID (AAID). We associate the LiveRamp ID with the mobile ID just like we would associate the cookie. LiveRamp links marketing platform partners, third party data providers, and data from a brand to mobile devices through the LiveRamp ID. 
+
+>Connectivity services work across channels - Due to technical differences across the channels, LiveRamp uses different approaches tailored specifically to each channel to provide our Connectivity Services. The common basis of these services is an ID that LiveRamp assigns to an individual. The ID may be used in a personally identifiable state or in a manner that is not used to identify the individual, depending on the channel and the use.
+
+>LiveRamp collects certain types of information in connection with our Connectivity Services. We also collect other data such as IP address, mobile device ID, and browser and operating system type and version. 
+
+LiveRamp's website states:
+
+`https://liveramp.com/our-platform/identity-graph/` (1)  
+
+>Our identity graph helps you better personalize, target, and measure the success of your marketing campaigns and communications by combining individual-level or household-level data across devices, and channels, as well as offline and online interactions.  
+  
+>LiveRamp’s identity graph provides an omnichannel view of the consumer. Our offline data is based on touch-points from the real world that are deterministically and anonymously tied with online identifiers to provide a people-based omnichannel view of your target audience.
+  
+>Our identity graph was designed to enforce privacy and keep customer data safe while providing data-driven use cases for comprehensive marketing campaigns across devices and channels. (1)  
+  
+`https://liveramp.com/our-platform/omnichannel-ecosystem/` (2)
+
+>LiveRamp ties online and offline data into a single, persistent identifier to provide a clear, omnichannel view of the customer. (2)
+
+[Go back to top](#tracker-descriptions)
+
+## Lotame
+This service has been classified as `Analytics` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Lotame's privacy policy States:
+
+`https://www.lotame.com/about-lotame/privacy/lotames-products-services-privacy-policy/`
+
+>Technical identifiers may be used to identify your device and typically include:  
+>- Cookies  
+>- Mobile advertising identifiers (Apple IDFA and Google AAID)  
+>- IP address  
+>- Non-personal data inferred from an IP address, such as non-precise geo-location data  
+>- Non-cookie technologies  
+  
+>Lotame uses the information it collects and receives to:  
+>- Identify relationships between different browsers and devices  
+>- Analyze the effectiveness of online advertising campaigns  
+>- Provide aggregated information about user interests  
+>- Attribute user interests to browsers and devices  
+>- Test the accuracy of certain products, including cross-device matching  
+  
+>Lotame’s clients generally use First Party Data, along with Third Party Data provided by Lotame, to:  
+>- Deliver targeted advertising campaigns to users across devices  
+>- Serve targeted content to users across devices
+
+Lotame's website states: 
+
+`https://www.lotame.com/back-to-basics-what-is-identity-resolution/` (1)  
+
+>Identity resolution is the process of combining multiple identifiers across devices and touchpoints with data points collected along the way to build a cohesive, omnichannel view of your consumers, so you can reach them when and where they are most likely to engage along the sales funnel...At Lotame, we more commonly think of this practice as cross-device identification or cross-device targeting (1)  
+  
+`https://www.lotame.com/products/lotame-connect/people-based-id-solution/` (2)
+
+>Cartographer clusters and connects your people across IDs, browsers, devices, and domains. So a consumer who visits your abc.com site would be connected to all the instances of their identity, including their visit to your def.com site. (2)
+
+
+[Go back to top](#tracker-descriptions)
+
 ## lptracker
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://stats.lptracker.io/lpt_widget/out/main.min.js?2.20.0-312-g9dbe2215e8-dirty`
 1. Script embeds on open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -2935,7 +3469,7 @@ Script: `https://stats.lptracker.io/lpt_widget/out/main.min.js?2.20.0-312-g9dbe2
 [Go back to top](#tracker-descriptions)
 
 ## MaxMind
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://device.maxmind.com/js/device.js`
 1. Script generates fingerprint by querying various device properties:
@@ -3010,163 +3544,21 @@ Script: `https://device.maxmind.com/js/device.js`
 [Go back to top](#tracker-descriptions)
 
 ## MediaMath
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Email`, `Advertising` and `FingerprintingGeneral` for the following reasons:
 ### Policy Review
-1. Mediamath purchased Tactads, a provider of "cookieless and cross-device targeting technologies" - `https://www.mediamath.com/news/press-release-mediamath-acquires-tactads-to-enable-cookieless-cross-device-targeting-and-measurement/`
+MediaMath's Privacy Policy States:
 
-> MediaMath, the creator of the TerminalOne Marketing Operating System™ for digital marketers, today announced its acquisition of Tactads, provider of cookieless and cross-device targeting technologies. Integrated into TerminalOne, these technologies will provide advertisers the ability to communicate with consumers and unify marketing efforts across smartphone, tablet, laptop, desktop, and other devices...
+`https://www.mediamath.com/privacy-policy/`
 
-> Tactads, a France-based company, has developed proprietary software that uses sophisticated algorithms to identify and associate devices using statistical techniques...
+>Like most digital marketing platforms, MediaMath uses cookies and other technologies to recognize browsers and devices and collect the categories of personal data described above (Bid request data and impression data, pixel data and other client data, third party segment data and other third party data) 
 
-2. MediaMath privacy policy states they use cookieless tracking and specifically states they profile installed fonts and "similar information" - https://www.mediamath.com/privacy-policy/#Section-2
+>We may assign a unique identifier called a MediaMath ID to your browser, your devices, such as your mobile device, connected television, or over-the-top television devices (""OTT TV Device""), or other screens you may encounter when we serve an ad to it or when you use it to access a client’s digital properties. Digital Properties include websites, emails, apps (""Digital Properties""). The MediaMath ID enables the Platform to determine within a reasonable level of confidence that a browser or devices is the same one with which the Platform has previously interacted. In some cases, based on data we receive from our clients or partners, we are able to infer within a reasonable probability that a particular browser or device should be associated with the same MediaMath ID. Where we are able to associate more than one browser or device with the same MediaMath ID, we may use this information to deliver targeted ads across multiple browsers or devices. This is sometimes referred to as cross-device advertising.
 
-> The MediaMath ID can be a cookie ID (a unique ID assigned randomly by MediaMath to an unrecognized browser), a mobile advertising ID (a unique ID assigned by the mobile operating system, e.g. Apple ID for Advertising or Android Advertising ID), an OTT TV Device Identifier for Advertising (a unique ID assigned by an OTT TV provider, e.g., Roku ID for Advertising), or a statistical ID (created by MediaMath). We use information about your computer or device to generate the statistical ID, including your operating system, user-agent string, Internet Protocol (“IP”) address, installed fonts, and similar information. This information makes your computer or device distinct enough for our systems to determine within a reasonable probability that they are encountering the same computer or device over time, including in environments where MediaMath cookies are not supported.
-### Technical Review
-1. Script uses canvas/font fingerprinting to fingerprint users
-
-```
-var render = function(type) {
-  /**
-    * @param {string} id
-    * @return {?}
-    */
-  function init(id) {
-    /** @type {boolean} */
-    var result = false;
-    /** @type {number} */
-    var i = 0;
-    for (; i < baseFonts.length; i++) {
-      if (target == "dom") {
-        /** @type {string} */
-        s.style.fontFamily = id + "," + baseFonts[i];
-        o.appendChild(s);
-        /** @type {boolean} */
-        var val = s.offsetWidth != defaultWidth[baseFonts[i]] || s.offsetHeight != defaultHeight[baseFonts[i]];
-        o.removeChild(s);
-      } else {
-        if (target == "canvas") {
-          /** @type {string} */
-          ctx.font = part + " " + id + "," + baseFonts[i];
-          /** @type {boolean} */
-          val = ctx.measureText(testString).width != defaultWidth[baseFonts[i]];
-        }
-      }
-      /** @type {(boolean|undefined)} */
-      result = result || val;
-    }
-    return result;
-  }
-  /** @type {!Array} */
-  var baseFonts = ["monospace", "sans-serif", "serif"];
-  /** @type {string} */
-  var testString = "mmmmmmmmmmlli";
-  /** @type {string} */
-  var part = "72px";
-  if (type != "dom") {
-    /** @type {string} */
-    var target = "canvas";
-    /** @type {!Element} */
-    var result = document.createElement("canvas");
-    /** @type {string} */
-    result.width = "100";
-    /** @type {string} */
-    result.height = "100";
-    globalContainer$jscomp$0.appendChild(result);
-  }
-  if (!result || typeof result.getContext != "function") {
-    /** @type {string} */
-    target = "dom";
-    var o = globalContainer$jscomp$0;
-    /** @type {!Element} */
-    var s = document.createElement("span");
-    /** @type {string} */
-    s.style.fontSize = part;
-    /** @type {string} */
-    s.innerHTML = testString;
-    var defaultWidth = {};
-    var defaultHeight = {};
-    /** @type {number} */
-    var i = 0;
-    for (; i < baseFonts.length; i++) {
-      s.style.fontFamily = baseFonts[i];
-      o.appendChild(s);
-      defaultWidth[baseFonts[i]] = s.offsetWidth;
-      defaultHeight[baseFonts[i]] = s.offsetHeight;
-      o.removeChild(s);
-    }
-  } else {
-    var ctx = result.getContext("2d");
-    defaultWidth = {};
-    /** @type {number} */
-    i = 0;
-    for (; i < baseFonts.length; i++) {
-      /** @type {string} */
-      ctx.font = part + " " + baseFonts[i];
-      defaultWidth[baseFonts[i]] = ctx.measureText(testString).width;
-    }
-  }
-  /** @type {function(string): ?} */
-  this.detect = init;
-  /** @type {(string|undefined)} */
-  this.method = target;
-};
-```
-
-2. Script probes device properties to attempt to fingerprint users
-
-```
-/** @type {string} */
-resultsFromProbes$jscomp$0["bcap"] = [$mime_type, prKey, getWindowData$jscomp$0("navigator", "cookieEnabled")].join("|");
-}();
-!function() {
-/** @type {string} */
-resultsFromProbes$jscomp$0["lges"] = [getWindowData$jscomp$0("navigator", "browserLanguage"), getWindowData$jscomp$0("navigator", "language"), getWindowData$jscomp$0("navigator", "userLanguage")].join("|");
-}();
-!function() {
-/** @type {string} */
-resultsFromProbes$jscomp$0["ob"] = [getWindowData$jscomp$0("navigator", "appCodeName"), getWindowData$jscomp$0("navigator", "appName"), getWindowData$jscomp$0("navigator", "platform"), getWindowData$jscomp$0("navigator", "cpuClass")].join("|");
-}();
-
-var get_date_offset = function(date) {
-  /** @type {number} */
-  var t = -date.getTimezoneOffset();
-  return t !== null ? t : 0;
-};
-
-!function() {
-  /** @type {string} */
-  resultsFromProbes$jscomp$0["sc"] = [getWindowData$jscomp$0("screen", "width"), getWindowData$jscomp$0("screen", "height"), getWindowData$jscomp$0("screen", "availWidth"), getWindowData$jscomp$0("screen", "availHeight"), getWindowData$jscomp$0("screen", "pixelDepth"), getWindowData$jscomp$0("screen", "deviceXDPI"), getWindowData$jscomp$0("screen", "deviceYDPI")].join("|");
-}();
-
-PluginDetect$jscomp$0.java = {
-mimeType : "application/x-java-applet",
-classID : "clsid:8AD9C840-044E-11D1-B3E9-00805F499D93",
-DTKclassID : "clsid:CAFEEFAC-DEC7-0000-0000-ABCDEFFEDCBA",
-DTKmimeType : "application/npruntime-scriptable-plugin;DeploymentToolkit",
-
-PluginDetect$jscomp$0.quicktime = {
-mimeType : ["video/quicktime", "application/x-quicktimeplayer", "image/x-macpaint", "image/x-quicktime"],
-progID : "QuickTimeCheckObject.QuickTimeCheck.1",
-progID0 : "QuickTime.QuickTime",
-classID : "clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B",
-minIEver : 7,
-
-PluginDetect$jscomp$0.devalvr = {
-mimeType : "application/x-devalvrx",
-progID : "DevalVRXCtrl.DevalVRXCtrl.1",
-classID : "clsid:5D2CF9D0-113A-476B-986F-288B54571614",
-
-PluginDetect$jscomp$0.flash = {
-mimeType : ["application/x-shockwave-flash", "application/futuresplash"],
-progID : "ShockwaveFlash.ShockwaveFlash",
-classID : "clsid:D27CDB6E-AE6D-11CF-96B8-444553540000",
-
-```
 
 [Go back to top](#tracker-descriptions)
 
 ## Mercadopago
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://content.mercadopago.com/fp/check.js;CIS3SID=2A8E1955E35B694A5EF6292EA1DB8B21?org_id=jk96mpy0&session_id=95524399a59f3fedefeea41a7fde6a07&nonce=d521cdd0c52860ee`
 1. Script generates fingerprint by querying various device properties:
@@ -3361,7 +3753,7 @@ Raw log:
 [Go back to top](#tracker-descriptions)
 
 ## Mobials
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.moba.mobials.com/v1/moba.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3417,7 +3809,7 @@ Script: `https://cdn.moba.mobials.com/v1/moba.min.js`
 [Go back to top](#tracker-descriptions)
 
 ## Mystighty
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://mystighty.info/c/D.9m6Qb/2n5-lwSoWOQW9hM/jLcv3-M/z/g/xGN/Sp0UyXNUzFcnzmO/DOUE1M`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3487,7 +3879,7 @@ function logPageView(customData) {
 [Go back to top](#tracker-descriptions)
 
 ## Negishim
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://www.negishim.com/accessibility/accessibility_pro_group255.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3575,7 +3967,7 @@ Raw log:
 [Go back to top](#tracker-descriptions)
 
 ## OneAd
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://ad-specs.guoshipartners.com/static/js/isip.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -3633,7 +4025,7 @@ a.Fingerprint2 = function(a) {
 [Go back to top](#tracker-descriptions)
 
 ## OnlineMetrix
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 ```
 function tmx_run_page_fingerprinting(saveNotifs) {
@@ -3645,144 +4037,52 @@ function tmx_run_page_fingerprinting(saveNotifs) {
 [Go back to top](#tracker-descriptions)
 
 ## OpenX
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `http://u.openx.net/tq/pi?k=gateway&rid=ab18c828-8715-4b6b-973c-aef4be5b121b&rt=1549406488`
-1. Script generates fingerprint by querying various device properties including audio and canvas:
-```
-            var Y = D.OfflineAudioContext || D.webkitOfflineAudioContext;
-            var Z = "u_audio_context";
-            if (!Y) {
-                return T(Z, "n/a")
-            }
-            try {
-                var X = new Y(1, 44100, 44100);
-                var V = X.createDynamicsCompressor();
-                var U = X.createOscillator();
-                U.type = "triangle";
-                U.frequency.value = 10000;
-                X.oncomplete = function(ab) {
-                    for (var ad = ab.renderedBuffer.getChannelData(0), aa = 0, ac = 4500; ac < 5000; ac++) {
-                        U += Math.abs(ad[ac])
-                    }
-                    T(Z, j("" + aa));
-                    V.disconnect()
-                };
-                U.connect(V);
-                V.connect(X.destination);
-                U.start(0);
-                X.startRendering()
-            } catch (W) {
-                T(Z, "error")
-            }
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+OpenX's Privacy Policy States: 
 
-        var H;
-        var I;
-        var K = "1";
-        try {
-            I = E.createElement("div");
-            I.style.position = "absolute";
-            I.style.width = I.style.height = I.style.border = I.style.padding = I.style.margin = 0;
-            I.style.overflow = "hidden";
-            E.body.appendChild(I);
-            H = E.createElement("canvas");
-            H.width = H.height = 10;
-            I.appendChild(H);
-            H.getContext("2d").strokeText("true", 0, 0)
-        } catch (J) {
-            K = "0"
-        } finally {
-            H && I && I.removeChild(H)
-        }
-        return K
+`https://www.openx.com/legal/privacy-policy/`
 
-```
-2. Sends computed fingerprint back to server
-```
-Request URL: http://delivery-us-west-1.openx.net/w/1.0/ri?ph=REMOVED&ts=REMOVED
-```
+>We collect information through Publishers that use our Services. For example, when you visit a website or app and the Publisher sends us a request to show you an ad, we collect certain information about the ad space, you and your device to help inform a Demand Partner’s decision to serve the ad. We also collect information through Demand Partners that use our Services, as well as from other third-party partners. This information we collect can identify your device over time. In particular, we may collect the following categories of information: 
+>- Unique online identifiers 
+>- Browser information (e.g. browser type, version, language,) 
+>- Device information (e.g. screen dimensions, device brand and model) 
+>- Internet service information (e.g. Internet Service Provider used by you) 
+>- Derived location data (as derived from IP address or GPS (for mobile)) 
+>- Precise location data (if you have enabled location services on your device and a Publisher passes that data to us) 
+>- Ad reporting or delivery data (e.g. size/type of ad, ad impressions, location/format of ad, data about interactions with the ad) 
+>- Interest segments (i.e. inferred information on the behavior or likely interests associated with you) 
+>- Retargeting data (i.e. data indicating previous interest in a product or website) 
+>- Other data that can be passed in the request to the Demand Partner to inform their decision 
+
+>We primarily recognize your devices through the following identifiers: Cookies and Similar Technologies, Mobile Advertising IDs To help identify your browser and/or possible relationships between different browsers and devices, OpenX or our partners may use the local storage or cache in your browser.
 
 [Go back to top](#tracker-descriptions)
 
-## Opolen
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+## Origo
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Origo’s privacy policy states:  
+ 
+`https://www.origo.hu/common/20180525-adatvedelmi-es-adatkezelesi-tajekoztato.html`
+ 
+>32. Data to be technically recorded during the operation of the systems: the data of the User's login computer, which are generated during the use of the Service and which are recorded by the System of Data Controllers as an automatic result of the technical processes. The data that is automatically recorded is automatically logged at the time of entry or exit without any separate statement or action by the User." 
+
+[Go back to top](#tracker-descriptions)
+
+## PartyPoker
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
-Script: `https://static.opolen.com.br/polen-lojaintegrada-pollinator.min.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+Script: `https://content.iivt.com/ciwic/sp/fingerprint2.js`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
 ```
-    var n = function(t) {
-        if (!(this instanceof n)) return new n(t);
-        this.options = this.extend(t, {
-            swfContainerId: "fingerprintjs2",
-            swfPath: "flash/compiled/FontList.swf",
-            detectScreenOrientation: !0,
-            sortPluginsFor: [/palemoon/i],
-            userDefinedFonts: [],
-            excludeDoNotTrack: !0,
-            excludePixelRatio: !0
-        });
-        this.nativeForEach = Array.prototype.forEach;
-        this.nativeMap = Array.prototype.map
-    };
-
+{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "#000000", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "get"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"❤️🤪🎉👋\",50,70]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
-2. Sends computed fingerprint back to server:
-```
-loadPolenContainer: function() {
-            try {
-                if (polenFramework.polenKey == null) {
-                    polenHelper.logList.push("Polen key not found");
-                    return
-                }
-                var n = polenStorage.getPolenContainer(),
-                    t = polenStorage.getPolenTransactionId(n);
-                jPolen.when(polenHelper.generateFingerprint()).done(function(n) {
-                    var r = polenHelper.getParameterByName("polen") == "ativo" ? !1 : null,
-                        u = polenHelper.mobilecheck(),
-                        i = {
-                            key: polenFramework.polenKey,
-                            domain: polenFramework.domain,
-                            page: polenFramework.currentUrl,
-                            transactionId: t,
-                            abTestName: "",
-                            ngoUrl: "",
-                            fingerprint: n,
-                            original: r,
-                            isMobile: u
-                        };
-                    jPolen.when(polenHelper.post(polenHelper.apiUrl + "/Transaction/GetPolenContainer/", i)).done(function(n) {
-                        n ? n.success ? (polenStorage.setPolenContainer(n), polenStorage.setIsOriginal(n.original), polenStorage.setPolenTransactionId(n.transactionId), polenFramework.polenHtmlLoaded == !1 && (polenFramework.loadHtml(), polenFramework.polenHtmlLoaded = !0), polenPlatform.Load(), polenFramework.triggerTracers()) : n.unauthorizedUrl ? polenStorage.setPolenContainer(n.data) : polenHelper.log({
-                            message: "errorType: " + n.errorType,
-                            stack: n.errorDescription + " / " + n.errorDescription2
-                        }, "post transaction/loadPolenContainer success=false", JSON.stringify(i), n.logToDatabase) : polenHelper.log({
-                            message: "errorType: Api returned null",
-                            stack: "errorType: Api returned null"
-                        }, "post transaction/loadPolenContainer null", JSON.stringify(i))
-                    }).fail(function(n, t, r) {
-                        polenHelper.checkUrlChange();
-                        polenHelper.log({
-                            message: r + " " + n.status,
-                            stack: n.responseText
-                        }, "post transaction/loadPolenContainer", JSON.stringify(i), n.responseJSON.logToDatabase)
-                    })
-                }).fail(function(n, t, i) {
-                    polenHelper.log({
-                        message: i + " " + n.status,
-                        stack: n.responseText
-                    }, "post GET FINGERPRINT", JSON.stringify(request))
-                })
-            } catch (i) {
-                polenHelper.log(i, "LoadPolen", "cookieEnabled:" + navigator.cookieEnabled)
-            }
-        }
-
-
-```
-
 [Go back to top](#tracker-descriptions)
 
 ## Paypal
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.simility.com/b.js`
 1. Script generates fingerprint by querying various device properties:
@@ -3828,7 +4128,7 @@ Script: `https://cdn.simility.com/b.js`
 [Go back to top](#tracker-descriptions)
 
 ## PerimeterX
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Policy Review
 1. PerimeterX Bot Defender provides bot detection using network and behavorial analysis. 
 
@@ -3929,121 +4229,32 @@ This service has been classified as `Advertising` and `Fingerprinting` for the f
 [Go back to top](#tracker-descriptions)
 
 ## PinPoll
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://pinpoll.com/global.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-var Fingerprint2 = function e(t) {
-    if (!(this instanceof e)) return new e(t);
-    this.options = this.extend(t, {
-        swfContainerId: "fingerprintjs2",
-        swfPath: "flash/compiled/FontList.swf",
-        detectScreenOrientation: !0,
-        sortPluginsFor: [/palemoon/i],
-        userDefinedFonts: [],
-        excludeDoNotTrack: !0
-    }), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-};
-```
-2. Sends computed fingerprint back to pinpoll.com:
-```
-                    d.style.display = "none", d.src = "https://static.pinpoll.com/static/start.html";
-                    var u = !1,
-                        p = function() {
-                            !u && a && l && (function() {
-                                0 === s.offsetHeight && (r = !0), s.remove(), d.remove();
-                                var a = {
-                                    plugins: n(),
-                                    timezone: (new Date).getTimezoneOffset(),
-                                    adblock: r ? 1 : 0,
-                                    dnt: window.navigator.doNotTrack,
-                                    cookiesEnabled: o() ? 1 : 0,
-                                    thirdPartyCookiesEnabled: c ? 1 : 0,
-                                    referrer: document.referrer,
-                                    title: document.title,
-                                    location: {
-                                        hash: document.location.hash,
-                                        hostname: document.location.hostname,
-                                        pathname: document.location.pathname,
-                                        protocol: document.location.protocol,
-                                        search: document.location.search
-                                    },
-                                    screen: {
-                                        width: window.screen.width,
-                                        height: window.screen.height,
-                                        colorDepth: window.screen.colorDepth,
-                                        orientation: window.screen.orientation ? window.screen.orientation.type : null
-                                    },
-                                    metaTags: i(),
-                                    fingerprint: t.fingerprint
-                                };
-                                e.open("post", "https://pa.pinpoll.com/v1/"), e.withCredentials = !0, e.setRequestHeader("Content-Type", "application/json"), e.send(JSON.stringify(a))
-                            }(), u = !0)
-                        };
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Pinpoll's privacy policy states: 
 
-```
+`https://www.pinpoll.com/pdf/data-protection-declaration.pdf`
+
+>Data generated by the software of Pinpoll can be the following data of users and voters: Device-specific information; Location-based information; Website-based information.
 
 [Go back to top](#tracker-descriptions)
 
-## Poool
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://assets.poool.fr/poool-identity.min.js`
-1. Script generates fingerprint by querying various device properties:
-```
-{
-                    key: "getScreenResolution",
-                    value: function() {
-                        return window.screen.width && window.screen.height ? window.screen.height > window.screen.width ? [window.screen.height, window.screen.width] : [window.screen.width, window.screen.height] : [0, 0]
-                    }
-                }, {
-                    key: "getCanvasSignature",
-                    value: function() {
-                        var t = $.getContext("2d"),
-                            e = "http://www.poool.fr";
-                        return t.clearRect(0, 0, $.width, $.height), t.textBaseline = "top", t.font = "14px 'Arial'", t.textBaseline = "alphabetic", t.fillStyle = "#f60", t.fillRect(125, 1, 62, 20), t.fillStyle = "#069", t.fillText(e, 2, 15), t.fillStyle = "rgba(102, 204, 0, 0.7)", t.fillText(e, 4, 17), $.toDataURL()
-                    }
-                }
-
-
-```
-2. Sends computed fingerprint back to server
-```
-{
-                    key: "headers",
-                    value: function(t) {
-                        var e = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : {},
-                            n = {
-                                "Content-Type": "application/json"
-                            };
-                        if (!1 !== e.app && (n["Bundle-Identifier"] = G.a.get("app_id")), !1 !== e.fingerprint && (n.FTag = V.get()), !1 !== e.identity && (n.PTag = I.a.get("_poool") || G.a.get("$user_id") || ""), !1 !== e.additional && !0 === G.a.get("cookies_enabled")) {
-                            var r = window.xprops,
-                                o = r.windowWidth,
-                                i = r.windowHeight;
-                            n.Additional = "" + "screen=".concat(o, "x").concat(i, ";") + "locale=".concat(ot.a.getLocale(), ";") + "mobile=".concat(ot.a.isMobile())
-                        }
-                        if (!1 !== e.signature) try {
-                            var a = G.a.get("app_id"),
-                                s = z.a.jws.JWS.sign(null, {
-                                    alg: "HS256",
-                                    cty: "JWT"
-                                }, t, window.btoa(a));
-                            s && (n.Signature = window.btoa(s), n.Token = "v2")
-                        } catch (t) {
-                            N.a.error("Cannot sign request")
-                        }
-                        return n
-                    }
-                }
-
-
-```
+## Polen
+This service has been classified as `Analytics` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Polen’s Terms of Service [no relevant privacy policy or Data processing agreement] states: 
+ 
+`https://polen.com.br/content/v5/file/termos.pdf`
+ 
+>b. The Polen Browser App is an online tool consisting of an extension installed in Google Chrome browser, which allows the realization of micro donations to Philanthropic Institutions through the reversal of a percentage of the value of purchases made in Partner Stores. References to the Polen Browser App can also be made as: plugin, radius pollinator, pollinator or other terms concerning the tool 
+ 
+>i. Polen does not directly obtain any kind of information from its users. The information is obtained through its Partner Stores, being supplied only those strictly necessary for using the Polen Browser App; 
+iii. The information collected by Polen will be applied in the realization of improvements to the tool, and also for the development of new functionalities, which can be used by Polen in other products that will be developed by the company." 
 
 [Go back to top](#tracker-descriptions)
 
 ## PPCProtect
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.ppcprotect.com/tracking/va-monitor.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4081,7 +4292,7 @@ Script: `https://cdn.ppcprotect.com/tracking/va-monitor.js`
 [Go back to top](#tracker-descriptions)
 
 ## PrismApp
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://prismapp-files.s3.amazonaws.com/widget/prism.js?v2`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4126,7 +4337,7 @@ BRUNCH_ENV: "production",
 [Go back to top](#tracker-descriptions)
 
 ## PrometheusIntelligenceTechnology
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://prometheusintelligencetechnology.com/pit/fp?fp=`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4159,8 +4370,165 @@ Script: `https://prometheusintelligencetechnology.com/pit/fp?fp=`
 
 [Go back to top](#tracker-descriptions)
 
+## Protected Media
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405`
+1. Script accesses several Javascript API calls known to invasively fingerprint users. Some examples (APIs captured using [OpenWPM](https://github.com/mozilla/OpenWPM)):
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "203",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"PR flacks quiz gym: TV DJ box when? ?˜ \",15,60]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "203",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"No??—\",40,80]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "207",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"http://abcd.com\",2,15]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "207",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"http://abcd.com\",4,17]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "208",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz1234567890\",2,2]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "208",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz1234567890\",2,2]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "208",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"123DFHJrtuoe :-( 8YumnxoWerAS\",2,2]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "209",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"123DFHJrtuoe :-( 8YumnxoWerAS\",2,2]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "202",
+  "symbol": "CanvasRenderingContext2D.fillText",
+  "arguments": "[\"😀🎅👂🔫\",0,20]",
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "344",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "344",
+  "symbol": "window.navigator.doNotTrack",
+  "arguments": null,
+  "value": "unspecified"
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "153",
+  "symbol": "window.navigator.oscpu",
+  "arguments": null,
+  "value": "Intel Mac OS X 10.15"
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "198",
+  "symbol": "OfflineAudioContext.createOscillator",
+  "arguments": null,
+  "value": ""
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "198",
+  "symbol": "OscillatorNode.type",
+  "arguments": null,
+  "value": "sine"
+}
+```
+```json
+{
+  "top_level_url": "https://www.metacafe.com/",
+  "script_url": "https://js.ad-score.com/score.min.js?pid=1000569#tid=&l1=&l2=&l2=&l3=&l4=&l5=www.metacafe.com&l6=&cb=0.7452266308619405",
+  "script_line": "341",
+  "symbol": "RTCPeerConnection.setLocalDescription",
+  "arguments": "[\"{\\\"type\\\":\\\"offer\\\",\\\"sdp\\\":\\\"v=0\\\\r\\\\no=mozilla...THIS_IS_SDPARTA-78.0.1 XXXXX 0 IN IP4 0.0.0.0\\\\r\\\\ns=-\\\\r\\\\nt=0 0\\\\r\\\\na=fingerprint:sha-256 XXXXX\\\\r\\\\na=group:BUNDLE 0\\\\r\\\\na=ice-options:trickle\\\\r\\\\na=msid-semantic:WMS *\\\\r\\\\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\\\\r\\\\nc=IN IP4 0.0.0.0\\\\r\\\\na=sendrecv\\\\r\\\\na=ice-pwd:XXXXX\\\\r\\\\na=ice-ufrag:XXXXX\\\\r\\\\na=mid:0\\\\r\\\\na=setup:actpass\\\\r\\\\na=sctp-port:5000\\\\r\\\\na=max-message-size:1073741823\\\\r\\\\n\\\"}\"]",
+  "value": ""
+}
+```
+[Go back to top](#tracker-descriptions)
+
 ## Provers
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://provers.pro/cID/9x6/bh2/5JlKS/WVQ_9/M/jAkf3iNqT/koylN/QE=e=u`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4198,7 +4566,7 @@ Script: `http://provers.pro/cID/9x6/bh2/5JlKS/WVQ_9/M/jAkf3iNqT/koylN/QE=e=u`
 [Go back to top](#tracker-descriptions)
 
 ## Psonstrentie
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `http://psonstrentie.info/cFDx9C6Rb/2m5jloSVWzQY9EMFjsgPwuM/jtcx5KMdCD0ly_O/DcABy/OJTnAxxz`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4231,8 +4599,19 @@ Script: `http://psonstrentie.info/cFDx9C6Rb/2m5jloSVWzQY9EMFjsgPwuM/jtcx5KMdCD0l
 
 [Go back to top](#tracker-descriptions)
 
+## RazorPay
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://cdn.thirdwatch.ai/tw.min.js`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+```
+{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
+```
+[Go back to top](#tracker-descriptions)
+
 ## Rollick
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://widget.rollick.io/00294`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4257,8 +4636,60 @@ Script: `https://widget.rollick.io/00294`
 ```
 [Go back to top](#tracker-descriptions)
 
+## RoqAd
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Roq.ad's Privacy Policy States: 
+
+`https://roq.ad/privacy-policy#`
+
+>The processing purpose - Roq.ad processes received signals to generate cross-device graph. The graph includes only IDs connected into clusters indicating our predictions for user-owned devices.
+
+>Roq.ad may transfer cookie IDs or MAIDs to its enterprise customers (advertisers, MarTech firms) as part of the generated cross-device graph.
+
+>Tracking mechanism and the data types used: Roq.ad technology may track users visiting websites with simple js script that allows to save common HTTP request data including: browser’s cookie ID, browser’s user agent, hashed IP address of the browser, visited URL, browser’s language, referrer URL. 
+
+Roq.ad's Website states:
+
+`https://roq.ad/`
+
+>Cross-Device Technology - Consumers constantly switch between their digital devices, such as smartphones, tablets, desktops, etc. The process of tracking consumer behavior and building a single digital identity for each user has become more complex. 
+
+>By accurately determining which devices belong to the same user, the Roq.ad Cross-Device Technology enables you to create data-driven strategies with focus on people-based marketing. This approach helps to increase engagement with your audience across all their devices and optimizes your marketing budget and analytics. 
+
+>Identity Graph - Uncover which devices your users own and how they use them to interact with your brand. Understanding your audience and their online behavioral patterns enables you to define the perfect strategy to increase engagement. Built in-house, Roq.ad Cross-Device Identity Graph uses probabilistic data to make predictions and deterministic data sets to train the algorithms.
+
+
+[Go back to top](#tracker-descriptions)
+
+## Salesforce
+This service has been classified as `Email`, `Content`, `Advertising`, `EmailStrict` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Salesforce's privacy policy States:
+
+`https://www.salesforce.com/products/marketing-cloud/sfmc/audience-studio-privacy/`
+
+>How we Collect and Use De-identified and/or Pseudonymized Personal Data via our Platform - When a user visits the website or mobile application of one of our Customers (the “Customer Site” or “Customer App,” collectively, the “Customer Site(s) and App(s)”), the Customer collects and transfers to Audience Studio and/or enables Audience Studio to collect pseudonymized personal data related to that user’s visits to the website or mobile app (our Customer’s “Session Data”). This Session Data may include information about how the user came to the Customer Site and App, which search engines they use, the search terms used to find the Customer Site, their experience on the Customer Site and App, information about how they interact with the Customer Site and App, demographic information that the Customer has collected from that user and other visitors, data from third-party data providers, and information regarding how users interact with advertisements on the Customer Site and App. Additionally, browsers automatically send certain standard information to every website a user visits, such as an IP address, browser type and language settings, access times, and referring website addresses. This information is collected during visits to each Customer Site and App, including the Audience Studio Site…Where our systems can reasonably infer that a particular computer and/or mobile device belong to the same user or household, we may store such information for use on the Platform. The data stored on our Platform may be combined with third-party data (for example, geolocation data provided by a vendor) in order to better target advertisements, to enable Customers to better understand users across multiple computers and devices, and for ad delivery and reporting purposes.  
+  
+>HTML5 Cookies -Audience Studio uses HTML5 cookies in connection with the Platform, including on the Audience Studio Site and Customer Sites. An HTML5 cookie is also known as HTML5 Web storage and is an alternative to the commonly used HTTP browser cookie.  
+  
+>Statistical Identifiers - Audience Studio is experimenting with the use of statistical identifiers in connection with the Platform, including on the Audience Studio Site and some Customer Sites where requested by Customers. Statistical identifiers are created using pseudonymized personal data about computers and mobiles devices such as the operating system, user-agent string, IP address, Internet browser, installed fonts, and similar information. This information makes your computer or device distinct enough for our systems to determine within a reasonable probability that they are encountering the same computer or device. Statistical identifiers enable users to be uniquely identified via the Platform, enabling the Platform to store ad targeting, analytics, and other data.  
+  
+>Pixel Tags - We also use pixel tags in connection with the Platform, including on the Audience Studio Site and Customer Sites. Pixel tags (also known as web beacons) are small strings of html or JavaScript code that provide a method for delivering a graphic image on a Web page or other document. Pixel tags may be used to obtain information about the computer or device being used to view a particular Web page such as the IP address of the computer or device to which the pixel tag is sent, the time it was sent, the computer or device’s operating system and browser type, and similar information.
+
+Salesforce's website states: 
+
+'https://konsole.zendesk.com/hc/en-us/articles/215234358-Cross-Device-User-Matching'
+
+>User data stored in Audience Studio is keyed off a global Krux User ID. The Krux User ID is a third-party cookie and as such is specific to a browser (and correspondingly device too). On the other hand, first-party data that is ingested by the platform is keyed off a first-party user ID that is provided to Audience Studio by our clients. The first-party user ID typically comes from a user registration system and is the same across different browsers and devices for a given user. The client specific first-party user ID is mapped to the browser specific Krux User ID as part of the user matching and data loading process. As a result, it is possible to map and reconcile the browser specific Krux User IDs to an “Uber-ID’ using the client’s first-party, device-and-browser-agnostic user ID. This Uber-ID can then be used to build a profile of a user that spans browsers and devices.  
+  
+>Once the User Match table has been constructed, the client’s first-party user ID can be used as an “Uber-ID” to create a joint profile of user activity across different browsers and devices. This joint profile can then be used in the segment building process allowing Audience Studio clients to build more comprehensive audience segments that can be leveraged across multiple devices.
+
+
+[Go back to top](#tracker-descriptions)
+
 ## SAP
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Email`, `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://d3m83gvgzupli.cloudfront.net/webEvent/cywevent.js?servicecode=AD36293095`
 1. Script gathers several device characteristics to generate a fingerprint:
@@ -4376,7 +4807,7 @@ function cyOnPageLoad(/* optional */ isBlocking, /* optional */ doDelay, /* opti
 [Go back to top](#tracker-descriptions)
 
 ## Semantiqo
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://sonar.semantiqo.com/c82up/checking.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4416,7 +4847,7 @@ Script: `https://sonar.semantiqo.com/c82up/checking.js`
 [Go back to top](#tracker-descriptions)
 
 ## SendPulse
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Email`, `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://static-login.sendpulse.com/apps/fc3/build/dh-libs.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4440,8 +4871,19 @@ Request URL: https://login.sendpulse.com/members/forms/stat?true=jQuery112409706
 ```
 [Go back to top](#tracker-descriptions)
 
+## Shixiseng
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://sxsimg.xiaoyuanzhao.com/static/public/js/mxa.js?v=2d880315aeead463159ebbcbb8c1a0bf`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+```
+{"is_audio": true, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "audio_api_calls": [{"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}], "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
+```
+[Go back to top](#tracker-descriptions)
+
 ## SiftScience
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.siftscience.com/s.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4501,8 +4943,55 @@ Script: `https://cdn.siftscience.com/s.js`
 ```
 [Go back to top](#tracker-descriptions)
 
+## SmarterClick
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://js.smct.io/e/fp-1.4.8.min.js`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+```
+{"is_audio": true, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "audio_api_calls": [{"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}, {"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}], "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
+```
+[Go back to top](#tracker-descriptions)
+
+## SmartyAds
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+SmartyAds' Privacy policy States:
+
+`https://smartyads.com/privacy-policy`
+
+>Information that we may process includes: 
+>- Information about your behavior on our client’s resources, websites, and platforms: including information about the domain, your referring website addresses, date and time of your visits, page view data, search keywords, visitor activities and actions on publisher’s sites, referring and exit pages, platform type, date/time stamp, geolocation (including city, country, zip code, and potentially geographic coordinates if you have enabled location services on your device), click data, types of advertisements viewed. 
+> - Information about your browser: your browser type, languages, browser history etc. 
+> - Information about your device: including information about your IP address, device make, device model, device operating system, device operating system version, and data connection type. 
+> - Information about your Internet service: including information about which Internet Service Provider (ISP) you use. 
+> - Information regarding your interactions with our clients, including your use of our clients’ websites, software, and mobile applications, the websites and applications or other pages on the Internet or other resources our clients operate and control. 
+> - Any additional data that is reasonably necessary to calculate a statistical ID in certain cases. 
+> - Pseudonymous and generalized information collected by our clients or third parties that may include identifiers (similar to mobile advertising IDs and alike) and interest-based advertising data related to or connected with said identifiers. 
+
+>We collect a variety of data using cookies and various other standards (typical for the industry) and unique (if our technology allows so) web technologies to collect information automatically from your device, including: 
+>- HTML5 and Locally Stored Objects. 
+>- Tags and Pixels. 
+>- Mobile Device Identifiers 
+>- Other technologies
+
+
+SmartyAds' website states:
+
+`https://smartyads.com/reviews`(1)
+
+>Universal cross-device advertising opportunities, cutting-edge technologies along with best industry experts are the key pillars of our service that help our customers grow and optimize their marketing campaigns exponentially. (1) 
+
+ `https://smartyads.com/white-label-solution` (2)
+ 
+>Control your budget, target and retarget your audiences with relevant brand messages. Launch CPM advertising campaigns cross-channel on any device. (2)
+
+
+[Go back to top](#tracker-descriptions)
+
 ## Smi
-This service has been classified as `Fingerprinting` for the following reasons:
+This service has been classified as `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://jsn.24smi.net/smi.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4551,45 +5040,16 @@ Script: `https://jsn.24smi.net/smi.js`
 [Go back to top](#tracker-descriptions)
 
 ## Socital
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://plugin.socital.com/static/v1/socital.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-            var o = {
-                swfContainerId: "fingerprintjs2",
-                swfPath: "flash/compiled/FontList.swf",
-                detectScreenOrientation: !0,
-                sortPluginsFor: [/palemoon/i],
-                userDefinedFonts: []
-            };
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Socital's privacy policy states: 
 
-```
-2. Sends computed fingerprint back to server
-```
-                            var e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : null,
-                                o = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : null,
-                                t = {
-                                    browserID: a.browser.browserID,
-                                    fingerprint: o,
-                                    fingerprintData: e,
-                                    superCookieID: a._getSuperCookieID(),
-                                    uri: window.location.href,
-                                    userID: a.userID,
-                                    envData: a.browser.envData,
-                                    uuid: (0, s.default)()
-                                };
-                            a.browser.visit = {
-                                uuid: t.uuid
-                            }, fetch(k + "/api/v1/events/browserVisit", {
-                                method: "PUT",
-                                body: JSON.stringify(t),
-                                headers: {
-                                    "Content-Type": "application/json"
-                                }
-                            })
+`https://socital.com/privacy/`
 
-```
+>Socital also offers the extraction and analysis of End User Data from Third-Party Services on behalf of the Client and as authorized by the Client, the storage of End User Data and the storage of the output of the processing of such data, and the segmentation and export of the End User Data to Third-Party Services 
+
+>Passive Data Collection - Like most web-based services, we may automatically receive and record information on our server logs from your browser when you use the Socital Site and Services. We may use a variety of methods, including clear GIFs (also known as “web beacons”) and “cookies”, to collect this information. We use both session and persistent cookies. The information that we may collect with these automated methods may include, for example, your IP address, cookie information, a unique device or user ID, browser type, system type, the content and pages that you access on the Socital Site or Services, the frequency and duration of your visits to the Socital Site or Services, and the “referring URL” (i.e., the page from which you navigated to the Socital Site).
+
 
 [Go back to top](#tracker-descriptions)
 
@@ -4641,47 +5101,32 @@ function Miner(spareChangeApiKey, p1, p2) {
 
 [Go back to top](#tracker-descriptions)
 
-## StackTrack
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://cdn.stat-track.com/statics/moosend-tracking.min.js?ts=5179362`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-        var e = function(t) {
-            if (!(this instanceof e)) return new e(t);
-            var r = {
-                swfContainerId: "fingerprintjs2",
-                swfPath: "flash/compiled/FontList.swf",
-                detectScreenOrientation: !0,
-                sortPluginsFor: [/palemoon/i],
-                userDefinedFonts: []
-            };
-            this.options = this.extend(t, r), this.nativeForEach = Array.prototype.forEach, this.nativeMap = Array.prototype.map
-        };
+## SteelHouse
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Steelhouse's privacy policy States:
 
-```
-2. Sends computed fingerprint back to server
-```
-e.prototype.ping = function(e) {
-            if (this._isInitialized()) {
-                var t = {
-                        BrowserComponents: e,
-                        ContactId: this.storage.getUserId(),
-                        actionType: n.PING,
-                        sessionId: this.storage.getSessionId(),
-                        siteId: this.siteId
-                    },
-                    r = this.storage.getEmail(),
-                    i = this.storage.getCampaignId();
-                r && (t.ContactEmailAddress = r), i && (t.CampaignId = i), this.agent.sendPing(t)
-            }
-        }
-```
+`https://steelhouse.com/privacy-policy/`
+
+>Through the provision of our Services we collect various types of information from our customers, affiliates and ad technology partners, including from: Publishers (i.e. the owners of the applications and websites you use), Ad exchanges, Ad Networks, Supply Side Platforms, Direct Marketing Platforms and other ad technology companies, who assist with providing targeted advertisements, including information about your device, such as device identifier, model, network provider, browser type, language, IP Address, Information about mobile application usage, how you interact with applications you use and advertising you see, precise location information (only with your consent), device type, information about the app, such as the version, information about your mobile advertising identifiers such as your advertising ID and other information about you, including interests, age, gender. 
+
+>In order to be able to serve advertisements to you that you may wish to see, we may combine data and link your activities across devices and websites through the use of your device identifying IP address. 
+
+Steelhouse's website states:
+
+`https://steelhouse.com/steelhouse-digital/`
+
+>Get the most detailed analytics in the industry for complete transparency into clicks, conversions, spend, and more — all in a fully customizable reporting suite…Cross-Device integrated into google analytics. Track and verify all traffic and conversions across all devices in google analytics.  
+  
+>SteelHouse’s retargeting solution allows advertisers to retarget previous site visitors on web and mobile. SteelHouse Performance TV also enables advertisers to retarget users on Connected TV devices such as Roku, Firestick, AppleTV, and other smart TVs. In addition, you are able to track and measure results on both Google Analytics and the SteelHouse platform. This makes it a true cross device remarketing solution as you will be able to launch targeted advertising campaigns on laptops, computers, mobile devices, and on streaming TV devices and networks.  
+  
+>Because the SteelHouse Smart Pixel allows advertisers to run retargeting campaigns without the need for a product feed. Simply place the pixel on your website and you are able to retarget site visitors with the products and services they viewed on your website.
+
 
 [Go back to top](#tracker-descriptions)
 
 ## Storeland
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://sl-h-statistics-ch-1.storeland.ru/static/fp.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4717,8 +5162,44 @@ try {
 ```
 [Go back to top](#tracker-descriptions)
 
+## Stripchat
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://cdn.stripst.com/assets/vendors.20200625080251.js`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+```
+{"is_audio": true, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "audio_api_calls": [{"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}], "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
+```
+[Go back to top](#tracker-descriptions)
+
+## Tapad
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Tapad's Privacy Policy States: 
+
+`https://www.tapad.com/us-privacy-notice`
+
+>Tapad collects and uses information as described further in this Privacy Notice in connection with the Graph services we provide to Clients and Partners. The Graph is an association of likely connections between device Identifiers across platforms including websites, or mobile applications. 
+
+>We use our technologies to create likely connections between device Identifiers across platforms including websites, or mobile applications and TV applications. This data is used for more tailored advertising, marketing, measurement, analytics, and research. 
+
+>In order to establish connections between devices and provide the Services and Tapad Graph to Clients and Partners, we collect and store the information as described below from devices. Tapad collects and uses information through its own and Third Party websites and mobile applications, and in connection with the Services that we provide to Partners and Clients such as advertisers, agencies, marketers, and technology firms. Tapad observes these signals generated from internet activity received from devices connected to the internet, and uses various processing logic to establish likely connections and groups together unique Identifiers that are likely associated. The associated Identifiers may include those IDs associated with mobile applications on both smartphones and tablets, web browsers across various devices, and connected TVs or applications on connected TVs. 
+
+>Tapad also receives matching IDs from Partners and Clients for the purpose of matching existing customers or otherwise known IDs to IDs in Tapad's Graph. Matching IDs may represent device IDs, underlying Cookie IDs, customer IDs, or other types of data meaningful to the Partner or Client, and is recognized only as another pseudonym in Tapad's systems.
+
+Tapad's website states: 
+
+`https://www.tapad.com/the-tapad-graph`
+
+>A global, privacy-safe digital cross-device solution, The Tapad Graph is built on top of a curated network of data providers, combined with the power of utilizing sophisticated machine learning models with authenticated and real-time signals, to provide the most comprehensive and differentiated digital identity graph in market. By leveraging The Tapad Graph to correlate data into a single view, complex customer journeys become clearer — enabling a more precise and actionable way to engage consumers across multiple devices. As a result, brands, agencies, telcos and platforms are able to unlock greater impact across their programmatic, targeting, measurement, and personalization efforts. 
+
+>One Powerful cross device graph - Simply put, The Tapad Graph is a data file that includes digital ad IDs that are clustered at the individual and/or household level. It’s built using a set of customer provided input IDs as a baseline, and from there we connect those IDs to other IDs associated with them — across multiple digital device types. Receive a file each week and start realizing the benefits of Tapad’s global cross-device graph. For example, a brand or agency with a file of first or third-party cookies can associate them to mobile devices, CTVs, and additional cookies — creating more relevant opportunities for brands to connect with consumers across devices.
+
+[Go back to top](#tracker-descriptions)
+
 ## TechSolutions
-This service has been classified as `Analytics` and `Fingerprinting` for the following reasons:
+This service has been classified as `Analytics` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://www.techsolutions.com.tw/analytics.js?id=adb5aa4fedda0f66&d=https://adbert.techsolutions.com.tw/&0.5748148854325372`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4795,8 +5276,59 @@ var ProcessorGeneral = async function ProcessorGeneral(action, event, args) {
 ```
 [Go back to top](#tracker-descriptions)
 
+## The Trade Desk
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+TheTradeDesk's privacy policy States:
+
+`https://www.thetradedesk.com/general/privacy`
+
+>Cross device graphing: We may use data and algorithms to associate devices that might be related to each other, such as devices used by the same person or in the same household. 
+
+>Some of the ways the Platform collects data include: using cookies and pixels 
+
+>The Platform processes data both on our behalf and on behalf of clients and partners for advertising purposes such as: associating devices that might be related to each other
+
+>Our AdBrain product, which is part of our Platform, uses data to produce a mapping of devices that might be related to each other, meaning that they might be used by the same person or by people within the same household. This helps advertisers better target and measure their campaigns, as well as limiting the number of times the same person or household sees an ad.
+
+
+TheTradeDesk's website states: 
+
+`https://www.thetradedesk.com/products/cross-device`
+
+>Cross-Device Targeting and Measurement Deliver relevant, personalized messaging across the entire user journey.  
+  
+>Our cross-device targeting tools match multiple devices and channels to a unique ID, so you can serve up relevant ads when and where they’ll be most impactful. Our measurement tools let you analyze those interactions to learn how to create the ideal customer journey. We’ve partnered with leaders in cross-device data to bring you a holistic solution based on deterministic and probabilistic matching capabilities.  
+  
+>Analyze the entire customer journey. See which ads perform well on which devices, including Connected TV, desktop, and mobile.
+
+
+[Go back to top](#tracker-descriptions)
+
+## Trendemon
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://assets.trendemon.com/global/fingerprint.min.js`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+```
+{"is_audio": true, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "audio_api_calls": [{"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}], "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
+```
+[Go back to top](#tracker-descriptions)
+
+## Unknown2mdnsys
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://cfa.2mdnsys.com/cdn-cgi/bm/cv/2172558837/api.js`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+```
+{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "200px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"HB\\\"E\",64,140]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"J>\",118,151]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "50px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"j=Lx\",110,168]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"}4^Q\",74,105]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
+```
+[Go back to top](#tracker-descriptions)
+
 ## Upland
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://t.sf14g.com/sf14g.js`
 1. Generates fingerprint based on plugins, fonts, canvas, etc:
@@ -4922,50 +5454,8 @@ getCanvasFp: function () {
    ```
 [Go back to top](#tracker-descriptions)
 
-## Vendemore
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://d2hya7iqhf5w3h.cloudfront.net/scripts/analytics.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
-```
-('Fingerprint2', this, function() {
-    'use strict';
-    var _0x75b9x15 = function(options) {
-        if (!(this instanceof _0x75b9x15)) {
-            return new _0x75b9x15(options)
-        };
-        var _0x75b9x17 = {
-            swfContainerId: 'fingerprintjs2',
-            swfPath: 'flash/compiled/FontList.swf',
-            detectScreenOrientation: true,
-            sortPluginsFor: [/palemoon/i],
-            userDefinedFonts: []
-        };
-        this['options'] = this['extend'](options, _0x75b9x17);
-        this['nativeForEach'] = Array['prototype']['forEach'];
-        this['nativeMap'] = Array['prototype']['map']
-    };
-```
-2. Sends computed fingerprint back to server
-```
-new Fingerprint2(options)['get'](function(_0x75b9x48) {
-    var _0x75b9x8a = 'https://analytics.vendemore.com/visits';
-    _0x75b9x8a += '?vlmref=' + customerCookieValue;
-    _0x75b9x8a += '&vaid=' + ourCookieValue;
-    _0x75b9x8a += '&fingerprint=' + _0x75b9x48;
-    _0x75b9x8a += '&url=' + requestUrl;
-    _0x75b9x8a += '&title=' + title;
-    _0x75b9x8a += '&path=' + path;
-    _0x75b9x8a += '&domain=' + domain;
-    _0x75b9x8a += '&referrer=' + referrer;
-    httpGetAsync(_0x75b9x8a, interactionControllerResponse)
-})
-```
-
-[Go back to top](#tracker-descriptions)
-
 ## VerticalHealth
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://assets.verticalhealth.net/fingerprint2.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -4990,19 +5480,37 @@ Request URL: https://id.verticalhealth.net/pixel.gif?fprint=REMOVED&partnerid=io
 
 [Go back to top](#tracker-descriptions)
 
-## ViralLoops
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
-### Technical Review
-Script: `https://app.viral-loops.com/popup_assets/js/vl_load_v2.min.js`
-1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
+## Vtex
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Vtex's privacy policy states: 
 
+`https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy` 
+
+>VTEX may also collect additional information through your dealings with and use of the Services and non-VTEX websites, which does not disclose your specific identity or does not directly relate to an individual. Additional information may include, but is not limited to: 
+>-Internet Protocol address ("IP address") and information derived from your IP address such as your geographic location; 
+-Geographic location showing where You are using the Services; 
+-Information about your devices such as information contained in HTTP Headers (defined below) or other internet transfer protocol signals, browser or device type and version; operating system, user-agent strings and information about or from the presence or use of "apps" on your mobile devices, screen resolution, and your preferred language; 
+-Unique IDs such as a cookie placed on your computer, mobile or device IDs; 
+-Behavioral data and information about your usage of the Services, including webpages clicked, websites and content areas visited, date and time of activities; 
+ 
+>We might also may put together additional information with Personal Information, such as gathering geographical location from your IP address and combining all of this with behavioral data about your usage of the Services with your name. 
+
+[Go back to top](#tracker-descriptions)
+
+## Warumbistdusoarm
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://warumbistdusoarm.space/cdn-cgi/bm/cv/2172558837/api.js`  
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
 ```
-swfContainerId:"fingerprintjs2"
+{"is_audio": false, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "canvas_api_calls": [{"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "50px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"26%k'\",115,244]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.strokeText", "arguments": "[\"&>\",48,218]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "200px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"KHJ/$\",147,109]", "operation": "call"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "{}", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "28.571428571428573px aanotafontaa", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"V*\",50,156]", "operation": "call"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
 [Go back to top](#tracker-descriptions)
 
 ## Webmecanik
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://mr.automation.webmecanik.com/mtc.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -5198,7 +5706,7 @@ var CryptonightWASMWrapper = function() {
 [Go back to top](#tracker-descriptions)
 
 ## WideOrbit
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://cdn.dep-x.com/t.js?id=DEP-VIC20C64C128&d=DID-YC33ZZAJJOG4`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -5241,8 +5749,19 @@ Script: `https://cdn.dep-x.com/t.js?id=DEP-VIC20C64C128&d=DID-YC33ZZAJJOG4`
 
 [Go back to top](#tracker-descriptions)
 
+## Yieldmo
+This service has been classified as `Advertising` and `FingerprintingGeneral` for the following reasons:
+### Policy Review
+Yieldmo's privacy policy States:
+
+`https://www.yieldmo.com/privacy-policy/`
+
+>As an End User browses the mobile Internet or uses Apps that include references to the Service, the End User’s browser or device may request advertisements from Yieldmo’s system. When Yieldmo receives these requests, and/or when Yieldmo delivers advertisements to such browser or device, we may collect information about these interactions (as well as any further interaction with the advertisements provided by the Service such as views, clicks, conversions, etc.). This may include, for example: IP address; unique identifiers sent to us from mobile devices, network carriers or data providers; information contained in HTTP headers or other internet transfer protocol signals…attributes of computer or device usage, such as advertisements clicked, websites and content areas visited; date and time of advertisement request, and advertisement delivery and interaction activities; browser type and version; operating system; language setting; information about or from the presence or use of Apps on a mobile device; and location. Such information is stored on Yieldmo’s servers. We may also collect the GPS location of your device if you have opted to provide it to Yieldmo or to one of Yieldmo’s publisher or third party data provider partners. On occasion, we may also receive information from third-parties that enables advertisement optimization, independently of or in combination with the information collected by Yieldmo, such as audience interest segments and product categories.
+
+[Go back to top](#tracker-descriptions)
+
 ## ZafulAffiliate
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://js.affasi.com/affasi_js.min.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -5288,7 +5807,7 @@ Script: `https://js.affasi.com/affasi_js.min.js`
 [Go back to top](#tracker-descriptions)
 
 ## Zefir
-This service has been classified as `Advertising` and `Fingerprinting` for the following reasons:
+This service has been classified as `Advertising` and `FingerprintingInvasive` for the following reasons:
 ### Technical Review
 Script: `https://ze-fir.com/js/t.js`
 1. Script embeds or includes snippets of an open source fingerprinting library, [fingerprintjs2](https://github.com/Valve/fingerprintjs2):
@@ -5336,6 +5855,17 @@ this.sendStat = function(t, n, i, a) {
                 })
             }
 
+```
+[Go back to top](#tracker-descriptions)
+
+## Zip
+This service has been classified as `FingerprintingInvasive` for the following reasons:
+### Technical Review
+Script: `https://static.zipmoney.com.au/lib/js/zm-widget-js/modules/vendors~fingerprint.bundle.c04703fa41fd7e01128a.js`   
+Submission source: Submitted for review by Mozilla (2020-06-25_v10-Fingerprinter_report)  
+1. Script makes several calls to known invasive fingerprinting APIs. These API calls were observed using [OpenWPM](https://github.com/mozilla/OpenWPM):
+```
+{"is_audio": true, "is_canvas": true, "is_webrtc": false, "is_canvas_font": false, "audio_api_calls": [{"value": "", "symbol": "OfflineAudioContext.createOscillator", "arguments": null, "operation": "call"}, {"value": "", "symbol": "OfflineAudioContext.createDynamicsCompressor", "arguments": null, "operation": "call"}, {"value": "{}", "symbol": "OfflineAudioContext.destination", "arguments": null, "operation": "get"}, {"value": "", "symbol": "OfflineAudioContext.startRendering", "arguments": null, "operation": "call"}, {"value": "FUNCTION", "symbol": "OfflineAudioContext.oncomplete", "arguments": null, "operation": "set"}], "canvas_api_calls": [{"value": "#f60", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "#069", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "11pt no-real-font-123", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",2,15]", "operation": "call"}, {"value": "rgba(102, 204, 0, 0.2)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "18pt Arial", "symbol": "CanvasRenderingContext2D.font", "arguments": null, "operation": "set"}, {"value": "", "symbol": "CanvasRenderingContext2D.fillText", "arguments": "[\"Cwm fjordbank glyphs vext quiz, 😃\",4,45]", "operation": "call"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(0,255,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,255,0)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "rgb(255,0,255)", "symbol": "CanvasRenderingContext2D.fillStyle", "arguments": null, "operation": "set"}, {"value": "", "symbol": "HTMLCanvasElement.toDataURL", "arguments": null, "operation": "call"}]}
 ```
 [Go back to top](#tracker-descriptions)
 
